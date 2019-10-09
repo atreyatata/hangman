@@ -1,0 +1,6218 @@
+Building environment to run python program
+Using base prefix '/Library/Frameworks/Python.framework/Versions/3.7'
+New python executable in /Users/atreyatata/Desktop/Hulu/hangman_env/bin/python3.7
+Also creating executable in /Users/atreyatata/Desktop/Hulu/hangman_env/bin/python
+Installing setuptools, pip, wheel...
+done.
+Activating environment
+Installing dependencies
+Running program
+
+
+Round  1
+{'token': '1302616', 'state': '__ ___ ________ _____________ _______', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '1302616', 'state': '__ ___ ________ _______E____E _______', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '1302616', 'state': '__ ___ ______A_ _______E____E _A_____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '1302616', 'state': '__ ___ ______A_ ____O__E____E _A___O_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '1302616', 'state': 'I_ _I_ _I____A_ I___O__E__I_E _A__IO_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '1302616', 'state': 'IN _I_ _IN___A_ IN__O__E__I_E _A__ION', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '1302616', 'state': 'IN _IS SIN___A_ IN__OS_E__I_E _AS_ION', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '1302616', 'state': 'IN HIS SIN___A_ IN__OS_E__I_E _ASHION', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  F
+{'token': '1302616', 'state': 'IN HIS SIN___A_ IN__OS_E__I_E FASHION', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '1302616', 'state': 'IN HIS SIN___AR IN_ROS_E__I_E FASHION', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '1302616', 'state': 'IN HIS SIN__LAR IN_ROS_E__I_E FASHION', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  U
+{'token': '1302616', 'state': 'IN HIS SIN_ULAR IN_ROS_E__I_E FASHION', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  G
+{'token': '1302616', 'state': 'IN HIS SINGULAR IN_ROS_E__I_E FASHION', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '1302616', 'state': 'IN HIS SINGULAR INTROS_E_TI_E FASHION', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  K
+{'token': '1302616', 'state': 'IN HIS SINGULAR INTROS_E_TI_E FASHION', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '1302616', 'state': 'IN HIS SINGULAR INTROS_E_TI_E FASHION', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '1302616', 'state': 'IN HIS SINGULAR INTROS_ECTI_E FASHION', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  M
+{'token': '1302616', 'state': 'IN HIS SINGULAR INTROSPECTIVE FASHION', 'remaining_guesses': 0, 'status': 'DEAD'}
+
+
+Fail:  IN HIS SINGULAR INTROSPECTIVE FASHION
+
+
+
+
+Round  2
+{'token': '5825424', 'state': '___ ___________ __ ___ _____ ___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '5825424', 'state': '__E ___E_______ __ __E _____ ___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '5825424', 'state': 'T_E ___E_______ __ T_E _____ ___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '5825424', 'state': 'THE ___E_______ __ THE _____ ___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '5825424', 'state': 'THE ___E_____O_ O_ THE __O__ ___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  F
+{'token': '5825424', 'state': 'THE ___E_____O_ OF THE __O__ F__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  K
+{'token': '5825424', 'state': 'THE ___E_____O_ OF THE __O__ F__', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '5825424', 'state': 'THE ___E_____O_ OF THE __O__ F__', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '5825424', 'state': 'THE ___ER____O_ OF THE _RO__ F__', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  U
+{'token': '5825424', 'state': 'THE _U_ER____O_ OF THE _RO__ F__', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '5825424', 'state': 'THE SU_ER__S_O_ OF THE _RO__ F__', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '5825424', 'state': 'THE SU_ER__S_ON OF THE _RO_N F__', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  W
+{'token': '5825424', 'state': 'THE SU_ER__S_ON OF THE _ROWN F__', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  B
+{'token': '5825424', 'state': 'THE SUPERVISION OF THE CROWN FIG', 'remaining_guesses': 0, 'status': 'DEAD'}
+
+
+Fail:  THE SUPERVISION OF THE CROWN FIG
+
+
+
+
+Round  3
+{'token': '2409734', 'state': '_______ __ ___ ____ __ _________', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '2409734', 'state': '_______ O_ ___ _O__ O_ ____O____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '2409734', 'state': '_E__E__ O_ __E _O__ O_ ____O____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '2409734', 'state': '_E__E__ O_ T_E _O__ O_ __T_O____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  F
+{'token': '2409734', 'state': '_E__E__ OF T_E _O__ OF __T_O____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '2409734', 'state': '_E__E__ OF THE _O__ OF __T_O____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '2409734', 'state': '_E__E__ OF THE _OD_ OF __T_O____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '2409734', 'state': '_E__E_S OF THE _OD_ OF __T_O___S', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '2409734', 'state': '_E__ERS OF THE _OD_ OF __TRO___S', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  M
+{'token': '2409734', 'state': 'MEM_ERS OF THE _OD_ OF __TRO___S', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  B
+{'token': '2409734', 'state': 'MEMBERS OF THE BOD_ OF __TRO___S', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  Y
+{'token': '2409734', 'state': 'MEMBERS OF THE BODY OF __TRO___S', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '2409734', 'state': 'MEMBERS OF THE BODY OF _ATRO___S', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  K
+{'token': '2409734', 'state': 'MEMBERS OF THE BODY OF _ATRO___S', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '2409734', 'state': 'MEMBERS OF THE BODY OF _ATRO___S', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '2409734', 'state': 'MEMBERS OF THE BODY OF PATROCLUS', 'remaining_guesses': 0, 'status': 'DEAD'}
+
+
+Fail:  MEMBERS OF THE BODY OF PATROCLUS
+
+
+
+
+Round  4
+{'token': '4901519', 'state': '______ ___ ___ __ ___ ____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '4901519', 'state': '_E___E __E E__ __ __E ____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '4901519', 'state': '_E___E T_E E__ __ T_E ____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '4901519', 'state': '_E_O_E T_E E__ O_ T_E _O__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '4901519', 'state': '_E_O_E THE E__ O_ THE _O__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  F
+{'token': '4901519', 'state': '_EFO_E THE E__ OF THE _O__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '4901519', 'state': '_EFO_E THE E_D OF THE _O__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '4901519', 'state': '_EFORE THE E_D OF THE _O__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  B
+{'token': '4901519', 'state': 'BEFORE THE E_D OF THE _O__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '4901519', 'state': 'BEFORE THE E_D OF THE _O__', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '4901519', 'state': 'BEFORE THE END OF THE _ON_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '4901519', 'state': 'BEFORE THE END OF THE _ON_', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '4901519', 'state': 'BEFORE THE END OF THE SON_', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  G
+{'token': '4901519', 'state': 'BEFORE THE END OF THE SONG', 'remaining_guesses': 1, 'status': 'FREE'}
+
+
+Success:  BEFORE THE END OF THE SONG
+
+
+
+
+Round  5
+{'token': '8251639', 'state': '_____ ___ ___ _ __________', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '8251639', 'state': '____E ___ ___ _ ____E_____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '8251639', 'state': 'A___E _A_ ___ A ____E__A__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '8251639', 'state': 'A___E _A_ _O_ A __O_E__A__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '8251639', 'state': 'A___E _AS _O_ A __O_ES_A__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  W
+{'token': '8251639', 'state': 'A___E WAS _O_ A __O_ES_A__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '8251639', 'state': 'A___E WAS _O_ A _RO_ES_A__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '8251639', 'state': 'A___E WAS _OT A _ROTESTA_T', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '8251639', 'state': 'A___E WAS NOT A _ROTESTANT', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '8251639', 'state': 'A_I_E WAS NOT A _ROTESTANT', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '8251639', 'state': 'ALI_E WAS NOT A _ROTESTANT', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  V
+{'token': '8251639', 'state': 'ALI_E WAS NOT A _ROTESTANT', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  P
+{'token': '8251639', 'state': 'ALI_E WAS NOT A PROTESTANT', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '8251639', 'state': 'ALICE WAS NOT A PROTESTANT', 'remaining_guesses': 2, 'status': 'FREE'}
+
+
+Success:  ALICE WAS NOT A PROTESTANT
+
+
+
+
+Round  6
+{'token': '7228312', 'state': '__ ___ _____ __ _____ ___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '7228312', 'state': '__ ___ _____ O_ _____ ___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '7228312', 'state': 'I_ ___ __I__ O_ _____ III', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '7228312', 'state': 'I_ __E _EI__ O_ _E___ III', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '7228312', 'state': 'IN __E _EI_N O_ _EN__ III', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '7228312', 'state': 'IN T_E _EI_N O_ _EN__ III', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '7228312', 'state': 'IN THE _EI_N O_ HEN__ III', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '7228312', 'state': 'IN THE REI_N O_ HENR_ III', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  F
+{'token': '7228312', 'state': 'IN THE REI_N OF HENR_ III', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  Y
+{'token': '7228312', 'state': 'IN THE REI_N OF HENRY III', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  G
+{'token': '7228312', 'state': 'IN THE REIGN OF HENRY III', 'remaining_guesses': 3, 'status': 'FREE'}
+
+
+Success:  IN THE REIGN OF HENRY III
+
+
+
+
+Round  7
+{'token': '6887430', 'state': '____________ _____ ___ _ ______', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '6887430', 'state': 'I________I__ _____ ___ _ ______', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '6887430', 'state': 'I________I__ ___E_ ___ _ ___EE_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '6887430', 'state': 'I____T__TI__ ___E_ ___ _ ___EE_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '6887430', 'state': 'I____T_ATI__ _A_E_ ___ A ___EE_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '6887430', 'state': 'I____T_ATIO_ _A_E_ _O_ A ___EE_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '6887430', 'state': 'I____T_ATION _ANE_ _O_ A ___EEN', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '6887430', 'state': 'I___ST_ATION _ANE_ _O_ A S__EEN', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '6887430', 'state': 'I___STRATION _ANE_ _OR A S_REEN', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '6887430', 'state': 'ILL_STRATION _ANEL _OR A S_REEN', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  F
+{'token': '6887430', 'state': 'ILL_STRATION _ANEL FOR A S_REEN', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '6887430', 'state': 'ILL_STRATION _ANEL FOR A SCREEN', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  P
+{'token': '6887430', 'state': 'ILL_STRATION PANEL FOR A SCREEN', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  U
+{'token': '6887430', 'state': 'ILLUSTRATION PANEL FOR A SCREEN', 'remaining_guesses': 3, 'status': 'FREE'}
+
+
+Success:  ILLUSTRATION PANEL FOR A SCREEN
+
+
+
+
+Round  8
+{'token': '7084301', 'state': '___ ____ __ _ ______ _____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '7084301', 'state': '___ _I__ __ _ ______ _____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '7084301', 'state': '__E _I_E __ _ _____E _____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '7084301', 'state': 'T_E _I_E __ _ ____TE _____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '7084301', 'state': 'T_E _I_E O_ _ ____TE _O___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '7084301', 'state': 'T_E _I_E O_ A __A_TE _O_A_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '7084301', 'state': 'THE _I_E O_ A _HA_TE _O_A_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  F
+{'token': '7084301', 'state': 'THE _IFE OF A _HA_TE _O_A_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '7084301', 'state': 'THE LIFE OF A _HA_TE _O_A_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '7084301', 'state': 'THE LIFE OF A _HA_TE _O_AN', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '7084301', 'state': 'THE LIFE OF A _HA_TE _O_AN', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  M
+{'token': '7084301', 'state': 'THE LIFE OF A _HA_TE _OMAN', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  W
+{'token': '7084301', 'state': 'THE LIFE OF A _HA_TE WOMAN', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '7084301', 'state': 'THE LIFE OF A _HASTE WOMAN', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '7084301', 'state': 'THE LIFE OF A CHASTE WOMAN', 'remaining_guesses': 2, 'status': 'FREE'}
+
+
+Success:  THE LIFE OF A CHASTE WOMAN
+
+
+
+
+Round  9
+{'token': '3673014', 'state': '__ _____ ___ ___ ___ __________', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '3673014', 'state': '_E _____ _EE ___ __E __E_____E_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '3673014', 'state': '_E _____ _EE ___ T_E _TE___T_E_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '3673014', 'state': '_E _____ _EE ___ THE _TE___THE_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '3673014', 'state': '_E _O___ _EE ___ THE _TE___THE_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '3673014', 'state': '_E _O___ _EE _A_ THE _TE__ATHE_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '3673014', 'state': '_E _O___ SEE _AS THE STE__ATHE_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  W
+{'token': '3673014', 'state': 'WE _O___ SEE WAS THE STE__ATHE_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '3673014', 'state': 'WE _O___ SEE WAS THE STE__ATHE_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '3673014', 'state': 'WE _O__D SEE WAS THE STE__ATHE_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '3673014', 'state': 'WE _O_LD SEE WAS THE STE__ATHE_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '3673014', 'state': 'WE CO_LD SEE WAS THE STE__ATHE_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  U
+{'token': '3673014', 'state': 'WE COULD SEE WAS THE STE__ATHE_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '3673014', 'state': 'WE COULD SEE WAS THE STE__ATHER', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  F
+{'token': '3673014', 'state': 'WE COULD SEE WAS THE STE_FATHER', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  P
+{'token': '3673014', 'state': 'WE COULD SEE WAS THE STEPFATHER', 'remaining_guesses': 2, 'status': 'FREE'}
+
+
+Success:  WE COULD SEE WAS THE STEPFATHER
+
+
+
+
+Round  10
+{'token': '3129157', 'state': '_________ __ ____ __ ___ _____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '3129157', 'state': '_I_______ __ ____ __ ___ _____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '3129157', 'state': '_I_______ __ _E__ __ __E ____E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '3129157', 'state': '_I__O____ __ _E__ __ __E ____E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '3129157', 'state': '_I__O_A__ A_ _E__ A_ __E __A_E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '3129157', 'state': '_I__O_A__ AS _E__ AS __E __A_E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '3129157', 'state': '_I_LO_A__ AS _ELL AS __E __A_E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '3129157', 'state': '_I_LO_A__ AS _ELL AS T_E T_A_E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '3129157', 'state': '_I_LO_A__ AS _ELL AS THE T_A_E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  W
+{'token': '3129157', 'state': '_I_LO_A__ AS WELL AS THE T_A_E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '3129157', 'state': '_I_LO_A__ AS WELL AS THE TRA_E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '3129157', 'state': 'DI_LO_A__ AS WELL AS THE TRADE', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '3129157', 'state': 'DI_LO_AC_ AS WELL AS THE TRADE', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  M
+{'token': '3129157', 'state': 'DI_LOMAC_ AS WELL AS THE TRADE', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  Y
+{'token': '3129157', 'state': 'DI_LOMACY AS WELL AS THE TRADE', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  P
+{'token': '3129157', 'state': 'DIPLOMACY AS WELL AS THE TRADE', 'remaining_guesses': 3, 'status': 'FREE'}
+
+
+Success:  DIPLOMACY AS WELL AS THE TRADE
+
+
+
+
+Round  11
+{'token': '9111310', 'state': '____ __ ___ ___________ _____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '9111310', 'state': '____ _E ___ ____E______ ___E_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '9111310', 'state': 'T__T _E ___ ____E______ ___E_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '9111310', 'state': 'T_AT _E _A_ ____E__A___ ___E_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '9111310', 'state': 'THAT HE _A_ ____E__A___ ___E_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '9111310', 'state': 'THAT HE _A_ __I_E__A___ _I_E_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '9111310', 'state': 'THAT HE _AS __I_E_SA___ _I_E_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  W
+{'token': '9111310', 'state': 'THAT HE WAS __I_E_SA___ _I_E_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '9111310', 'state': 'THAT HE WAS __I_ERSA___ _I_E_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '9111310', 'state': 'THAT HE WAS _NI_ERSA___ _I_E_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '9111310', 'state': 'THAT HE WAS _NI_ERSA___ _I_ED', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '9111310', 'state': 'THAT HE WAS _NI_ERSALL_ LI_ED', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  V
+{'token': '9111310', 'state': 'THAT HE WAS _NIVERSALL_ LI_ED', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  K
+{'token': '9111310', 'state': 'THAT HE WAS _NIVERSALL_ LIKED', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  U
+{'token': '9111310', 'state': 'THAT HE WAS UNIVERSALL_ LIKED', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  Y
+{'token': '9111310', 'state': 'THAT HE WAS UNIVERSALLY LIKED', 'remaining_guesses': 3, 'status': 'FREE'}
+
+
+Success:  THAT HE WAS UNIVERSALLY LIKED
+
+
+
+
+Round  12
+{'token': '1551624', 'state': "____'_ ___ ____ __ ___ _____", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '1551624', 'state': "___T'_ T__ ____ __ T__ _____", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '1551624', 'state': "___T'_ T_E ____ __ T_E _____", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '1551624', 'state': "_H_T'_ THE ____ __ THE _____", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '1551624', 'state': "_H_T'_ THE _OO_ O_ THE _O___", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  F
+{'token': '1551624', 'state': "_H_T'_ THE _OO_ OF THE _O___", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '1551624', 'state': "_H_T'_ THE _OOD OF THE _O__D", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '1551624', 'state': "_H_T'_ THE _OOD OF THE _O_LD", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  U
+{'token': '1551624', 'state': "_H_T'_ THE _OOD OF THE _O_LD", 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '1551624', 'state': "_H_T'_ THE _OOD OF THE _ORLD", 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  W
+{'token': '1551624', 'state': "WH_T'_ THE _OOD OF THE WORLD", 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  G
+{'token': '1551624', 'state': "WH_T'_ THE GOOD OF THE WORLD", 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '1551624', 'state': "WHAT'_ THE GOOD OF THE WORLD", 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  K
+{'token': '1551624', 'state': "WHAT'_ THE GOOD OF THE WORLD", 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '1551624', 'state': "WHAT'S THE GOOD OF THE WORLD", 'remaining_guesses': 0, 'status': 'DEAD'}
+
+
+Fail:  WHAT'S THE GOOD OF THE WORLD
+
+
+
+
+Round  13
+{'token': '4868142', 'state': '_________ ____ __ ___ ___ __________', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '4868142', 'state': 'E_E______ ____ __ ___ ___ ____E____E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '4868142', 'state': 'E_E______ ____ _T ___ ___ ____E_T__E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '4868142', 'state': 'E_E___O__ ____ _T ___ ___ _O__E_T__E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '4868142', 'state': 'E_E___O__ _A__ _T _A_ A__ _O__E_T__E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '4868142', 'state': 'E_E___O__ _A__ _T _A_ A__ _ON_E_T__E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '4868142', 'state': 'E_E___O__ _AI_ IT _A_ A__ _ON_E_T__E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '4868142', 'state': 'E_ER__O__ _AI_ IT _A_ A__ _ON_E_T_RE', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '4868142', 'state': 'E_ER__O__ SAI_ IT _AS A__ _ON_E_T_RE', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '4868142', 'state': 'E_ER__OD_ SAID IT _AS A__ _ON_E_T_RE', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  W
+{'token': '4868142', 'state': 'E_ER__OD_ SAID IT WAS A__ _ON_E_T_RE', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '4868142', 'state': 'E_ER__OD_ SAID IT WAS ALL _ON_E_T_RE', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  Y
+{'token': '4868142', 'state': 'E_ERY_ODY SAID IT WAS ALL _ON_E_T_RE', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  B
+{'token': '4868142', 'state': 'E_ERYBODY SAID IT WAS ALL _ON_E_T_RE', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  V
+{'token': '4868142', 'state': 'EVERYBODY SAID IT WAS ALL _ON_E_T_RE', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '4868142', 'state': 'EVERYBODY SAID IT WAS ALL CON_ECT_RE', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  U
+{'token': '4868142', 'state': 'EVERYBODY SAID IT WAS ALL CON_ECTURE', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  J
+{'token': '4868142', 'state': 'EVERYBODY SAID IT WAS ALL CONJECTURE', 'remaining_guesses': 3, 'status': 'FREE'}
+
+
+Success:  EVERYBODY SAID IT WAS ALL CONJECTURE
+
+
+
+
+Round  14
+{'token': '8102279', 'state': '____ __ ____ __ __ ____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '8102279', 'state': '____ _T ____ __ __ ____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '8102279', 'state': '____ _T ____ __ _O _O__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '8102279', 'state': '_E__ _T ___E _E _O _O__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '8102279', 'state': '_E__ _T _A_E _E _O _O__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '8102279', 'state': '_E__ _T _A_E _E _O _O__', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '8102279', 'state': '_E__ _T _ADE _E _O _O__', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '8102279', 'state': '_E__ IT _ADE _E _O _O__', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  B
+{'token': '8102279', 'state': '_E__ IT _ADE _E _O _O__', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '8102279', 'state': '_E__ IT _ADE _E _O _ON_', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '8102279', 'state': '_ELL IT _ADE _E _O LON_', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  W
+{'token': '8102279', 'state': 'WELL IT _ADE _E _O LON_', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  M
+{'token': '8102279', 'state': 'WELL IT MADE ME _O LON_', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '8102279', 'state': 'WELL IT MADE ME SO LON_', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  G
+{'token': '8102279', 'state': 'WELL IT MADE ME SO LONG', 'remaining_guesses': 1, 'status': 'FREE'}
+
+
+Success:  WELL IT MADE ME SO LONG
+
+
+
+
+Round  15
+{'token': '4694971', 'state': '___ ___ __ _________', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '4694971', 'state': '__E ___ __ _________', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '4694971', 'state': 'T_E ___ __ _________', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '4694971', 'state': 'THE ___ __ _________', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '4694971', 'state': 'THE ___ O_ __O______', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  F
+{'token': '4694971', 'state': 'THE ___ OF __O______', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '4694971', 'state': 'THE _A_ OF __O______', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '4694971', 'state': 'THE _A_ OF __O______', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '4694971', 'state': 'THE _A_ OF _RO__R___', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  M
+{'token': '4694971', 'state': 'THE _A_ OF _RO__R___', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '4694971', 'state': 'THE _A_ OF _RO__R_N_', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '4694971', 'state': 'THE WAY OF PROCURING', 'remaining_guesses': 0, 'status': 'DEAD'}
+
+
+Fail:  THE WAY OF PROCURING
+
+
+
+
+Round  16
+{'token': '8314179', 'state': '_ _____ ___ _________ __________ __________', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '8314179', 'state': '_ ____E ___ ________E ____E_____ __E_______', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '8314179', 'state': '_ ____E ___ _____T__E ____E_____ __E__T____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '8314179', 'state': 'A _A__E A__ ____AT__E ____E___A_ __E_AT____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '8314179', 'state': 'A _A__E A__ ____AT__E _O__E___A_ O_E_AT_O__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '8314179', 'state': 'A _A__E A__ ____ATI_E _O__E__IA_ O_E_ATIO__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '8314179', 'state': 'A _AR_E A__ ___RATI_E _O__ER_IA_ O_ERATIO__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '8314179', 'state': 'A LAR_E A__ L__RATI_E _O__ER_IAL O_ERATIO__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '8314179', 'state': 'A LAR_E AN_ L__RATI_E _O__ER_IAL O_ERATION_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '8314179', 'state': 'A LAR_E AN_ L_CRATI_E CO__ERCIAL O_ERATION_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '8314179', 'state': 'A LAR_E AND L_CRATI_E CO__ERCIAL O_ERATION_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  G
+{'token': '8314179', 'state': 'A LARGE AND L_CRATI_E CO__ERCIAL O_ERATION_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '8314179', 'state': 'A LARGE AND L_CRATI_E CO__ERCIAL O_ERATIONS', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  P
+{'token': '8314179', 'state': 'A LARGE AND L_CRATI_E CO__ERCIAL OPERATIONS', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  M
+{'token': '8314179', 'state': 'A LARGE AND L_CRATI_E COMMERCIAL OPERATIONS', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  U
+{'token': '8314179', 'state': 'A LARGE AND LUCRATI_E COMMERCIAL OPERATIONS', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  V
+{'token': '8314179', 'state': 'A LARGE AND LUCRATIVE COMMERCIAL OPERATIONS', 'remaining_guesses': 3, 'status': 'FREE'}
+
+
+Success:  A LARGE AND LUCRATIVE COMMERCIAL OPERATIONS
+
+
+
+
+Round  17
+{'token': '2948089', 'state': '___ ______ ____ ___ ____ __', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '2948089', 'state': '___ __E___ ____ ___ ___E __', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '2948089', 'state': 'A__ __E___ ____ _A_ ___E __', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '2948089', 'state': 'AN_ __E___ ___N _A_ ___E _N', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '2948089', 'state': 'AN_ __E___ ___N _A_ ___E IN', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '2948089', 'state': 'AN_ __ETT_ ___N _A_ ___E IN', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '2948089', 'state': 'AN_ __ETT_ _OON _A_ _O_E IN', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '2948089', 'state': 'AN_ _RETT_ _OON _A_ _O_E IN', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '2948089', 'state': 'AN_ _RETT_ SOON _A_ _O_E IN', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '2948089', 'state': 'AN_ _RETT_ SOON _A_ _O_E IN', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '2948089', 'state': 'AND _RETT_ SOON _A_ _O_E IN', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  M
+{'token': '2948089', 'state': 'AND _RETT_ SOON _A_ _OME IN', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '2948089', 'state': 'AND _RETT_ SOON _A_ _OME IN', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  W
+{'token': '2948089', 'state': 'AND PRETTY SOON PAP COME IN', 'remaining_guesses': 0, 'status': 'DEAD'}
+
+
+Fail:  AND PRETTY SOON PAP COME IN
+
+
+
+
+Round  18
+{'token': '9266896', 'state': '_______ ___ ___ _____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '9266896', 'state': '_______ ___ __E _____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '9266896', 'state': '_______ ___ __E _____', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '9266896', 'state': '__T____ __T T_E T__T_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '9266896', 'state': '_OT____ __T T_E T__T_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '9266896', 'state': '_OTH___ __T THE T__TH', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  U
+{'token': '9266896', 'state': '_OTH___ _UT THE T_UTH', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  B
+{'token': '9266896', 'state': '_OTH___ BUT THE T_UTH', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '9266896', 'state': '_OTHI__ BUT THE T_UTH', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '9266896', 'state': 'NOTHIN_ BUT THE T_UTH', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  G
+{'token': '9266896', 'state': 'NOTHING BUT THE T_UTH', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '9266896', 'state': 'NOTHING BUT THE TRUTH', 'remaining_guesses': 2, 'status': 'FREE'}
+
+
+Success:  NOTHING BUT THE TRUTH
+
+
+
+
+Round  19
+{'token': '7545664', 'state': '___ __ ___ __ __ __', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '7545664', 'state': '___ __ _O_ _O _O __', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '7545664', 'state': '___ __ _O_ _O _O I_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '7545664', 'state': '__T __ _OT TO _O IT', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '7545664', 'state': '__T __ _OT TO _O IT', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '7545664', 'state': '__T __ _OT TO _O IT', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  Y
+{'token': '7545664', 'state': 'BUT WE GOT TO DO IT', 'remaining_guesses': 0, 'status': 'DEAD'}
+
+
+Fail:  BUT WE GOT TO DO IT
+
+
+
+
+Round  20
+{'token': '4144398', 'state': '__________ ___ ____ _________-__-_____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '4144398', 'state': '__________ ___ ___E _______E_-__-___E_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '4144398', 'state': '_A________ _A_ _A_E ____A__E_-__-___E_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '4144398', 'state': '_A_____T__ _A_ _A_E ____A__E_-__-___E_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '4144398', 'state': '_A_____TO_ _A_ _A_E _O__A__E_-__-___E_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '4144398', 'state': '_A__I__TO_ _A_ _A_E _O__A__E_-I_-__IE_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '4144398', 'state': '_A__IN_TON _A_ _A_E _O__AN_E_-IN-__IE_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '4144398', 'state': '_AS_IN_TON _AS _A_E _O__AN_E_-IN-__IE_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '4144398', 'state': '_ASHIN_TON _AS _A_E _O__AN_E_-IN-_HIE_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  W
+{'token': '4144398', 'state': 'WASHIN_TON WAS _A_E _O__AN_E_-IN-_HIE_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '4144398', 'state': 'WASHIN_TON WAS _ADE _O__ANDE_-IN-_HIE_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  M
+{'token': '4144398', 'state': 'WASHIN_TON WAS MADE _OMMANDE_-IN-_HIE_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  G
+{'token': '4144398', 'state': 'WASHINGTON WAS MADE _OMMANDE_-IN-_HIE_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '4144398', 'state': 'WASHINGTON WAS MADE COMMANDE_-IN-CHIE_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  F
+{'token': '4144398', 'state': 'WASHINGTON WAS MADE COMMANDE_-IN-CHIEF', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '4144398', 'state': 'WASHINGTON WAS MADE COMMANDER-IN-CHIEF', 'remaining_guesses': 3, 'status': 'FREE'}
+
+
+Success:  WASHINGTON WAS MADE COMMANDER-IN-CHIEF
+
+
+
+
+Round  21
+{'token': '8517480', 'state': '____ _________ __ ___ ___ _____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '8517480', 'state': '____ _________ __ ___ ___ _____', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '8517480', 'state': '____ ____E__E_ __ __E ___ _____', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '8517480', 'state': '_O__ ____E__E_ O_ __E O__ _O___', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '8517480', 'state': '_O__ _T_TE__E_ O_ T_E O__ _O___', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '8517480', 'state': 'DODD _T_TE__E_ O_ T_E O_D _O__D', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '8517480', 'state': 'DODD _T_TE__E_ O_ T_E OLD _O_LD', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '8517480', 'state': 'DODD _T_TE__E_ O_ THE OLD _O_LD', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  F
+{'token': '8517480', 'state': 'DODD _T_TE__E_ OF THE OLD _O_LD', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  U
+{'token': '8517480', 'state': 'DODD _T_TE__E_ OF THE OLD _O_LD', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '8517480', 'state': 'DODD _T_TE__E_ OF THE OLD _ORLD', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  W
+{'token': '8517480', 'state': 'DODD _T_TE__E_ OF THE OLD WORLD', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '8517480', 'state': 'DODD _TATE__E_ OF THE OLD WORLD', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '8517480', 'state': 'DODD _TATE__EN OF THE OLD WORLD', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '8517480', 'state': 'DODD STATES_EN OF THE OLD WORLD', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  M
+{'token': '8517480', 'state': 'DODD STATESMEN OF THE OLD WORLD', 'remaining_guesses': 1, 'status': 'FREE'}
+
+
+Success:  DODD STATESMEN OF THE OLD WORLD
+
+
+
+
+Round  22
+{'token': '7277890', 'state': '__ ___ _ ________', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '7277890', 'state': '_E ___ _ __E___E_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '7277890', 'state': '_E _A_ A __EA__E_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '7277890', 'state': '_E _AS A __EA__E_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '7277890', 'state': 'HE _AS A __EA_HE_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  W
+{'token': '7277890', 'state': 'HE WAS A __EA_HE_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '7277890', 'state': 'HE WAS A _REA_HER', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '7277890', 'state': 'HE WAS A _REACHER', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  P
+{'token': '7277890', 'state': 'HE WAS A PREACHER', 'remaining_guesses': 3, 'status': 'FREE'}
+
+
+Success:  HE WAS A PREACHER
+
+
+
+
+Round  23
+{'token': '2443264', 'state': "__ __ ____'_ ___", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '2443264', 'state': "_O __ ____'_ ___", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '2443264', 'state': "_O __ ____'T T__", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '2443264', 'state': "_O __ _I__'T T__", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '2443264', 'state': "_O __ _I_N'T T__", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '2443264', 'state': "_O _E _I_N'T T__", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '2443264', 'state': "_O HE _I_N'T T__", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '2443264', 'state': "SO HE _I_N'T T__", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '2443264', 'state': "SO HE _I_N'T T__", 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '2443264', 'state': "SO HE _I_N'T TR_", 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  Y
+{'token': '2443264', 'state': "SO HE _I_N'T TRY", 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '2443264', 'state': "SO HE DIDN'T TRY", 'remaining_guesses': 2, 'status': 'FREE'}
+
+
+Success:  SO HE DIDN'T TRY
+
+
+
+
+Round  24
+{'token': '8464269', 'state': '__ ___ ________ __ ____ ___________', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '8464269', 'state': '__ ___ ________ O_ _O__ _________O_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '8464269', 'state': '__ __E E_E____E O_ _O_E _________O_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '8464269', 'state': 'I_ __E E_E__I_E O_ _O_E I___I___IO_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '8464269', 'state': 'I_ T_E E_E__I_E O_ _O_E I___I__TIO_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '8464269', 'state': 'I_ THE E_E__I_E O_ _O_E I___I__TIO_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  F
+{'token': '8464269', 'state': 'I_ THE E_E__I_E OF _O_E I___I__TIO_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '8464269', 'state': 'IN THE E_E__I_E OF _O_E I___IN_TION', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '8464269', 'state': 'IN THE E_ER_I_E OF _ORE I___IN_TION', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  M
+{'token': '8464269', 'state': 'IN THE E_ER_I_E OF MORE IM__IN_TION', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '8464269', 'state': 'IN THE E_ER_ISE OF MORE IM__IN_TION', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '8464269', 'state': 'IN THE E_ERCISE OF MORE IM__IN_TION', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  X
+{'token': '8464269', 'state': 'IN THE EXERCISE OF MORE IM__IN_TION', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '8464269', 'state': 'IN THE EXERCISE OF MORE IMA_INATION', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  G
+{'token': '8464269', 'state': 'IN THE EXERCISE OF MORE IMAGINATION', 'remaining_guesses': 3, 'status': 'FREE'}
+
+
+Success:  IN THE EXERCISE OF MORE IMAGINATION
+
+
+
+
+Round  25
+{'token': '8881626', 'state': '_____ ___ _ _______ __ _______', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '8881626', 'state': '_____ _A_ A ___A___ __ _______', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '8881626', 'state': '__E_E _A_ A ___A___ __ _E_____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '8881626', 'state': 'T_E_E _A_ A ___A___ __ _ET____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '8881626', 'state': 'T_E_E _A_ A ___A___ O_ _ET_O__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  F
+{'token': '8881626', 'state': 'T_E_E _A_ A ___A___ OF _ET_O__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '8881626', 'state': 'T_E_E _AS A ___A___ OF _ET_O_S', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '8881626', 'state': 'THE_E _AS A ___A___ OF _ETHO_S', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  W
+{'token': '8881626', 'state': 'THE_E WAS A ___A___ OF _ETHO_S', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '8881626', 'state': 'THERE WAS A R__A_R_ OF _ETHO_S', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '8881626', 'state': 'THERE WAS A R__A_R_ OF _ETHODS', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  M
+{'token': '8881626', 'state': 'THERE WAS A R__A_R_ OF METHODS', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '8881626', 'state': 'THERE WAS A RI_A_R_ OF METHODS', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '8881626', 'state': 'THERE WAS A RI_ALR_ OF METHODS', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  Y
+{'token': '8881626', 'state': 'THERE WAS A RI_ALRY OF METHODS', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  V
+{'token': '8881626', 'state': 'THERE WAS A RIVALRY OF METHODS', 'remaining_guesses': 3, 'status': 'FREE'}
+
+
+Success:  THERE WAS A RIVALRY OF METHODS
+
+
+
+
+Round  26
+{'token': '1898140', 'state': '__ __ __ ______ ____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '1898140', 'state': '__ __ O_ _O____ ____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '1898140', 'state': 'I_ I_ O_ _O____ ____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '1898140', 'state': 'I_ I_ O_ _O____ ____', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '1898140', 'state': 'I_ IS O_ _O__S_ __S_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '1898140', 'state': 'I_ IS O_ _O__SE E_S_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '1898140', 'state': 'IT IS O_ _O__SE E_S_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  F
+{'token': '1898140', 'state': 'IT IS OF _O__SE E_S_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '1898140', 'state': 'IT IS OF _O_RSE E_S_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '1898140', 'state': 'IT IS OF CO_RSE E_S_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  U
+{'token': '1898140', 'state': 'IT IS OF COURSE E_S_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '1898140', 'state': 'IT IS OF COURSE EAS_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  Y
+{'token': '1898140', 'state': 'IT IS OF COURSE EASY', 'remaining_guesses': 2, 'status': 'FREE'}
+
+
+Success:  IT IS OF COURSE EASY
+
+
+
+
+Round  27
+{'token': '1125581', 'state': '_______ _______ ____ ____ __ ______', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '1125581', 'state': '_______ _______ ____ ____ __ ______', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '1125581', 'state': '_E_____ _E__E__ _E_E _E__ __ ______', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '1125581', 'state': '_E_____ _ETTE__ _E_E _E_T T_ ______', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '1125581', 'state': '_E_____ _ETTE__ _E_E _E_T TO ____O_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '1125581', 'state': '_E__I__ _ETTE__ _E_E _E_T TO __I_O_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '1125581', 'state': '_E__IN_ _ETTE__ _E_E _ENT TO __I_ON', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '1125581', 'state': '_E__IN_ _ETTE_S _E_E SENT TO __ISON', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '1125581', 'state': '_E__IN_ _ETTERS _ERE SENT TO _RISON', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  W
+{'token': '1125581', 'state': '_E__IN_ _ETTERS WERE SENT TO _RISON', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  P
+{'token': '1125581', 'state': '_E__IN_ _ETTERS WERE SENT TO PRISON', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '1125581', 'state': '_E__IN_ LETTERS WERE SENT TO PRISON', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '1125581', 'state': '_E__IN_ LETTERS WERE SENT TO PRISON', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  G
+{'token': '1125581', 'state': '_EGGING LETTERS WERE SENT TO PRISON', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  B
+{'token': '1125581', 'state': 'BEGGING LETTERS WERE SENT TO PRISON', 'remaining_guesses': 1, 'status': 'FREE'}
+
+
+Success:  BEGGING LETTERS WERE SENT TO PRISON
+
+
+
+
+Round  28
+{'token': '4055828', 'state': '__ ___ ______ _________ _________', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '4055828', 'state': '__ ___ ______ ____I____ _________', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '4055828', 'state': '__ ___ E_E___ ____I____ _______E_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '4055828', 'state': 'A_ A__ E_E___ _A__IA___ A_A____E_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '4055828', 'state': 'A_ A__ E_EN__ _A__IA___ A_AN__NE_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '4055828', 'state': 'AT A__ E_ENT_ _A_TIA___ A_AN__NE_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '4055828', 'state': 'AT ALL E_ENT_ _A_TIALL_ A_AN__NE_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '4055828', 'state': 'AT ALL E_ENTS _A_TIALL_ A_AN__NE_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  V
+{'token': '4055828', 'state': 'AT ALL EVENTS _A_TIALL_ A_AN__NE_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '4055828', 'state': 'AT ALL EVENTS _A_TIALL_ A_AN_ONE_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '4055828', 'state': 'AT ALL EVENTS _A_TIALL_ A_ANDONED', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  B
+{'token': '4055828', 'state': 'AT ALL EVENTS _A_TIALL_ ABANDONED', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '4055828', 'state': 'AT ALL EVENTS _ARTIALL_ ABANDONED', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  Y
+{'token': '4055828', 'state': 'AT ALL EVENTS _ARTIALLY ABANDONED', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  P
+{'token': '4055828', 'state': 'AT ALL EVENTS PARTIALLY ABANDONED', 'remaining_guesses': 3, 'status': 'FREE'}
+
+
+Success:  AT ALL EVENTS PARTIALLY ABANDONED
+
+
+
+
+Round  29
+{'token': '6911869', 'state': '_________ ____ __ __ ___ __________', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '6911869', 'state': '_________ ____ __ __ _O_ __________', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '6911869', 'state': '_____I___ ____ __ I_ _O_ _____I____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '6911869', 'state': '_E___I___ ____ _E I_ _O_ _____I__E_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '6911869', 'state': '_E__TI___ ____ _E I_ _OT _____I_TE_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '6911869', 'state': '_EA_TI___ _A__ _E I_ _OT A___AI_TE_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '6911869', 'state': '_EA_TI___ _A__ _E I_ NOT A___AINTE_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '6911869', 'state': '_EA_TI___ _A__ _E IS NOT A___AINTE_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '6911869', 'state': '_EA_TI___ _A__ HE IS NOT A___AINTE_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  K
+{'token': '6911869', 'state': '_EA_TI___ _A__ HE IS NOT A___AINTE_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '6911869', 'state': '_EA_TI___ _A__ HE IS NOT A___AINTE_', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '6911869', 'state': '_EA_TI__L LA__ HE IS NOT A___AINTE_', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '6911869', 'state': '_EA_TI__L LAD_ HE IS NOT A___AINTED', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  Y
+{'token': '6911869', 'state': '_EA_TI__L LADY HE IS NOT A___AINTED', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  U
+{'token': '6911869', 'state': '_EAUTI_UL LADY HE IS NOT A__UAINTED', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  F
+{'token': '6911869', 'state': '_EAUTIFUL LADY HE IS NOT A__UAINTED', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  B
+{'token': '6911869', 'state': 'BEAUTIFUL LADY HE IS NOT A__UAINTED', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '6911869', 'state': 'BEAUTIFUL LADY HE IS NOT AC_UAINTED', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  Q
+{'token': '6911869', 'state': 'BEAUTIFUL LADY HE IS NOT ACQUAINTED', 'remaining_guesses': 1, 'status': 'FREE'}
+
+
+Success:  BEAUTIFUL LADY HE IS NOT ACQUAINTED
+
+
+
+
+Round  30
+{'token': '3715322', 'state': '_ ___ ___ _______ ____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '3715322', 'state': '_ _A_ ___ A___A__ ____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '3715322', 'state': '_ _A_ ___ A___A__ ____', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '3715322', 'state': '_ _A_ ___ A__EA__ ___E', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '3715322', 'state': '_ _A_ _O_ A__EA__ _O_E', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '3715322', 'state': '_ _A_ _O_ A_REA__ _O_E', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '3715322', 'state': '_ HA_ _O_ A_REA__ _O_E', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '3715322', 'state': '_ HAD _O_ A_READ_ DO_E', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '3715322', 'state': '_ HAD _OT A_READ_ DO_E', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '3715322', 'state': '_ HAD NOT A_READ_ DONE', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '3715322', 'state': 'I HAD NOT A_READ_ DONE', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '3715322', 'state': 'I HAD NOT ALREAD_ DONE', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  Y
+{'token': '3715322', 'state': 'I HAD NOT ALREADY DONE', 'remaining_guesses': 2, 'status': 'FREE'}
+
+
+Success:  I HAD NOT ALREADY DONE
+
+
+
+
+Round  31
+{'token': '4915647', 'state': '___ ________ ____ _______', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '4915647', 'state': 'T__ ________ ____ ____T__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '4915647', 'state': 'T_E ______E_ _E_E __E_TE_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '4915647', 'state': 'THE ______E_ _E_E __E_TE_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '4915647', 'state': 'THE ______E_ _ERE _RE_TE_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  W
+{'token': '4915647', 'state': 'THE ______E_ WERE _RE_TE_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '4915647', 'state': 'THE _____IE_ WERE _RE_TE_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '4915647', 'state': 'THE _____IE_ WERE _REATE_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '4915647', 'state': 'THE _____IE_ WERE _REATED', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '4915647', 'state': 'THE C____IE_ WERE CREATED', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '4915647', 'state': 'THE CO_O_IE_ WERE CREATED', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '4915647', 'state': 'THE CO_ONIE_ WERE CREATED', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '4915647', 'state': 'THE CO_ONIES WERE CREATED', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '4915647', 'state': 'THE COLONIES WERE CREATED', 'remaining_guesses': 3, 'status': 'FREE'}
+
+
+Success:  THE COLONIES WERE CREATED
+
+
+
+
+Round  32
+{'token': '5592426', 'state': '___ ___________ __ _________ __ _____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '5592426', 'state': '__E __________E __ ________E __ ___E_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '5592426', 'state': 'T_E _______T__E __ _____T__E __ ___E_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '5592426', 'state': 'T_E _A___A_T__E __ _____T__E __ ___E_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '5592426', 'state': 'T_E _A___A_T__E O_ _____T__E __ ___E_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '5592426', 'state': 'T_E _A___A_T__E O_ ____IT__E I_ _I_E_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '5592426', 'state': 'T_E _AN__A_T__E O_ ___NIT__E I_ _I_EN', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '5592426', 'state': 'T_E _AN__A_T_RE O_ __RNIT_RE I_ _I_EN', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '5592426', 'state': 'THE _AN__A_T_RE O_ __RNIT_RE I_ _I_EN', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  F
+{'token': '5592426', 'state': 'THE _AN_FA_T_RE OF F_RNIT_RE I_ _I_EN', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '5592426', 'state': 'THE _AN_FA_T_RE OF F_RNIT_RE IS _I_EN', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  G
+{'token': '5592426', 'state': 'THE _AN_FA_T_RE OF F_RNIT_RE IS GI_EN', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  V
+{'token': '5592426', 'state': 'THE _AN_FA_T_RE OF F_RNIT_RE IS GIVEN', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '5592426', 'state': 'THE _AN_FACT_RE OF F_RNIT_RE IS GIVEN', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  U
+{'token': '5592426', 'state': 'THE _ANUFACTURE OF FURNITURE IS GIVEN', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  M
+{'token': '5592426', 'state': 'THE MANUFACTURE OF FURNITURE IS GIVEN', 'remaining_guesses': 3, 'status': 'FREE'}
+
+
+Success:  THE MANUFACTURE OF FURNITURE IS GIVEN
+
+
+
+
+Round  33
+{'token': '3499314', 'state': '___ ___ ___ ____ ______ __', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '3499314', 'state': '___ __E ___ __E_ ______ __', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '3499314', 'state': '___ __E _A_ __E_ A__A__ __', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '3499314', 'state': '___ T_E _A_ T_E_ A__A__ __', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '3499314', 'state': '___ T_E _A_ T_E_ A__A__ _O', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '3499314', 'state': '_H_ THE _A_ THE_ A__A__ _O', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '3499314', 'state': '_H_ THE _A_ THE_ A__A_S _O', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  Y
+{'token': '3499314', 'state': '_HY THE _AY THEY A__AYS _O', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  M
+{'token': '3499314', 'state': '_HY THE _AY THEY A__AYS _O', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '3499314', 'state': '_HY THE _AY THEY A__AYS _O', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '3499314', 'state': '_HY THE _AY THEY A__AYS DO', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  W
+{'token': '3499314', 'state': 'WHY THE WAY THEY A_WAYS DO', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '3499314', 'state': 'WHY THE WAY THEY ALWAYS DO', 'remaining_guesses': 1, 'status': 'FREE'}
+
+
+Success:  WHY THE WAY THEY ALWAYS DO
+
+
+
+
+Round  34
+{'token': '4040816', 'state': '___ ____________ __ ___ _______ ______', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '4040816', 'state': '__E _E________E_ __ __E _E_E___ ______', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '4040816', 'state': 'T_E _E_____T__E_ __ T_E _E_E___ ____T_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '4040816', 'state': 'THE _E_____T__E_ __ THE _E_E___ ____T_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '4040816', 'state': 'THE _E____AT__E_ __ THE _E_E_A_ __A_T_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '4040816', 'state': 'THE _E____AT__E_ O_ THE _E_E_A_ __A_T_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  F
+{'token': '4040816', 'state': 'THE _E____AT__E_ OF THE _E_E_A_ __AFT_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '4040816', 'state': 'THE _E__S_AT__ES OF THE SE_E_A_ __AFTS', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '4040816', 'state': 'THE _E__S_AT_RES OF THE SE_ERA_ _RAFTS', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '4040816', 'state': 'THE LE__SLAT_RES OF THE SE_ERAL _RAFTS', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  V
+{'token': '4040816', 'state': 'THE LE__SLAT_RES OF THE SEVERAL _RAFTS', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '4040816', 'state': 'THE LE__SLAT_RES OF THE SEVERAL CRAFTS', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '4040816', 'state': 'THE LE_ISLAT_RES OF THE SEVERAL CRAFTS', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  U
+{'token': '4040816', 'state': 'THE LE_ISLATURES OF THE SEVERAL CRAFTS', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  G
+{'token': '4040816', 'state': 'THE LEGISLATURES OF THE SEVERAL CRAFTS', 'remaining_guesses': 3, 'status': 'FREE'}
+
+
+Success:  THE LEGISLATURES OF THE SEVERAL CRAFTS
+
+
+
+
+Round  35
+{'token': '5770967', 'state': '___ ______ __ ______', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '5770967', 'state': '___ ______ __ ______', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '5770967', 'state': '__E ___E__ __ _____E', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '5770967', 'state': 'T_E _T_E__ __ _____E', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '5770967', 'state': 'T_E _T_E__ O_ _O___E', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '5770967', 'state': 'THE _T_E__ O_ _O___E', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  F
+{'token': '5770967', 'state': 'THE _T_E__ OF _O___E', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '5770967', 'state': 'THE ST_E__ OF _O__SE', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '5770967', 'state': 'THE STRE__ OF _O_RSE', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '5770967', 'state': 'THE STRE__ OF CO_RSE', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  U
+{'token': '5770967', 'state': 'THE STRE__ OF COURSE', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '5770967', 'state': 'THE STREA_ OF COURSE', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  M
+{'token': '5770967', 'state': 'THE STREAM OF COURSE', 'remaining_guesses': 2, 'status': 'FREE'}
+
+
+Success:  THE STREAM OF COURSE
+
+
+
+
+Round  36
+{'token': '2886210', 'state': '______ ___________ ____ ____ __ _______', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '2886210', 'state': '______ ________T__ ____ T__T __ _______', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '2886210', 'state': '_O_O__ ________T__ ____ T__T O_ _______', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '2886210', 'state': '_O_O__ _E____E_T__ ___E T__T O_ E______', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '2886210', 'state': '_O_O__ _E__A_E_T__ ___E T_AT O_ E______', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '2886210', 'state': '_O_O__ _E__ANENT__ ___E T_AT O_ E_N____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '2886210', 'state': '_O_O_R _ER_ANENT__ ___E T_AT O_ E_N____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '2886210', 'state': '_OLO_R _ER_ANENTL_ L__E T_AT O_ E_N____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  F
+{'token': '2886210', 'state': '_OLO_R _ER_ANENTL_ L__E T_AT OF E_N____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  K
+{'token': '2886210', 'state': '_OLO_R _ER_ANENTL_ L_KE T_AT OF E_N____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '2886210', 'state': '_OLO_R _ER_ANENTL_ LIKE T_AT OF E_N____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '2886210', 'state': '_OLO_R _ER_ANENTL_ LIKE THAT OF E_N__H_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  M
+{'token': '2886210', 'state': '_OLO_R _ERMANENTL_ LIKE THAT OF E_N__H_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  Y
+{'token': '2886210', 'state': '_OLO_R _ERMANENTLY LIKE THAT OF E_N__H_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  P
+{'token': '2886210', 'state': '_OLO_R PERMANENTLY LIKE THAT OF E_N__H_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '2886210', 'state': 'COLO_R PERMANENTLY LIKE THAT OF E_N_CH_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  U
+{'token': '2886210', 'state': 'COLOUR PERMANENTLY LIKE THAT OF EUNUCH_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '2886210', 'state': 'COLOUR PERMANENTLY LIKE THAT OF EUNUCHS', 'remaining_guesses': 3, 'status': 'FREE'}
+
+
+Success:  COLOUR PERMANENTLY LIKE THAT OF EUNUCHS
+
+
+
+
+Round  37
+{'token': '6772326', 'state': '______ ______ ___ ____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '6772326', 'state': '______ ______ _I_ ____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '6772326', 'state': '____E_ ____E_ _I_ _E__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '6772326', 'state': '____E_ ____E_ _I_ _E__', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '6772326', 'state': '____E_ ____E_ _I_ _EA_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '6772326', 'state': '____E_ N___E_ _I_ _EA_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '6772326', 'state': '____E_ N___E_ _I_ _EA_', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '6772326', 'state': '_O__E_ NO__E_ _I_ _EA_', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '6772326', 'state': '_O__ES NO__E_ _IS _EA_', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '6772326', 'state': 'HO__ES NO__E_ HIS HEA_', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '6772326', 'state': 'HO__ES NODDED HIS HEAD', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '6772326', 'state': 'HOL_ES NODDED HIS HEAD', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  M
+{'token': '6772326', 'state': 'HOLMES NODDED HIS HEAD', 'remaining_guesses': 1, 'status': 'FREE'}
+
+
+Success:  HOLMES NODDED HIS HEAD
+
+
+
+
+Round  38
+{'token': '4956180', 'state': '_______ __ ___ ____ ___ _____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '4956180', 'state': '_______ __ __E _E__ ___ _____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '4956180', 'state': '_______ __ __E _E__ A__ _____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '4956180', 'state': '___T___ __ T_E _E_T A__ ___T_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '4956180', 'state': '___TO__ __ T_E _E_T A__ _O_T_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '4956180', 'state': '_I_TO__ I_ T_E _E_T A__ _O_T_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '4956180', 'state': '_I_TO__ I_ T_E _EST A__ SO_T_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '4956180', 'state': '_I_TO__ IN T_E _EST AN_ SO_T_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '4956180', 'state': '_I_TO__ IN THE _EST AN_ SO_TH', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '4956180', 'state': '_I_TO__ IN THE _EST AND SO_TH', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  U
+{'token': '4956180', 'state': '_I_TO__ IN THE _EST AND SOUTH', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  W
+{'token': '4956180', 'state': '_I_TO__ IN THE WEST AND SOUTH', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '4956180', 'state': '_I_TOR_ IN THE WEST AND SOUTH', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '4956180', 'state': '_ICTOR_ IN THE WEST AND SOUTH', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  Y
+{'token': '4956180', 'state': '_ICTORY IN THE WEST AND SOUTH', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  V
+{'token': '4956180', 'state': 'VICTORY IN THE WEST AND SOUTH', 'remaining_guesses': 3, 'status': 'FREE'}
+
+
+Success:  VICTORY IN THE WEST AND SOUTH
+
+
+
+
+Round  39
+{'token': '9355213', 'state': '_ ______ ___ ____ ____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '9355213', 'state': '_ ______ __T _T__ ____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '9355213', 'state': '_ ______ __T _TA_ ____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '9355213', 'state': '_ S_____ __T STA_ ____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '9355213', 'state': '_ S_O___ _OT STA_ ____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '9355213', 'state': '_ S_O___ _OT STA_ _E_E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '9355213', 'state': '_ S_O___ _OT STA_ _ERE', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  W
+{'token': '9355213', 'state': '_ S_O___ _OT STA_ _ERE', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '9355213', 'state': '_ SHO___ _OT STA_ HERE', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '9355213', 'state': '_ SHO___ NOT STA_ HERE', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '9355213', 'state': 'I SHO___ NOT STA_ HERE', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '9355213', 'state': 'I SHO__D NOT STA_ HERE', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '9355213', 'state': 'I SHO_LD NOT STA_ HERE', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  U
+{'token': '9355213', 'state': 'I SHOULD NOT STA_ HERE', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  Y
+{'token': '9355213', 'state': 'I SHOULD NOT STAY HERE', 'remaining_guesses': 2, 'status': 'FREE'}
+
+
+Success:  I SHOULD NOT STAY HERE
+
+
+
+
+Round  40
+{'token': '7246642', 'state': '____ __ ___ ____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '7246642', 'state': '____ T_ T__ ___T', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '7246642', 'state': '_O__ TO T__ ___T', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '7246642', 'state': '_O__ TO T_E _EET', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '7246642', 'state': '_O__ TO THE _EET', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '7246642', 'state': 'DO__ TO THE _EET', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '7246642', 'state': 'DO_N TO THE _EET', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  W
+{'token': '7246642', 'state': 'DOWN TO THE _EET', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  F
+{'token': '7246642', 'state': 'DOWN TO THE FEET', 'remaining_guesses': 3, 'status': 'FREE'}
+
+
+Success:  DOWN TO THE FEET
+
+
+
+
+Round  41
+{'token': '9802888', 'state': '__ ___ ________ ________', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '9802888', 'state': 'T_ T__ ________ ________', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '9802888', 'state': 'T_ T_E __E_____ ______E_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '9802888', 'state': 'T_ THE __E_____ ______E_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '9802888', 'state': 'TO THE __E_____ _O_O__E_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '9802888', 'state': 'TO THE A_E___A_ _O_O__E_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '9802888', 'state': 'TO THE A_E_I_A_ _O_O_IE_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '9802888', 'state': 'TO THE A_E_I_AN _O_ONIE_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '9802888', 'state': 'TO THE A_ERI_AN _O_ONIE_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '9802888', 'state': 'TO THE A_ERICAN CO_ONIE_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  M
+{'token': '9802888', 'state': 'TO THE AMERICAN CO_ONIE_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '9802888', 'state': 'TO THE AMERICAN CO_ONIES', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '9802888', 'state': 'TO THE AMERICAN COLONIES', 'remaining_guesses': 3, 'status': 'FREE'}
+
+
+Success:  TO THE AMERICAN COLONIES
+
+
+
+
+Round  42
+{'token': '8645689', 'state': '______ ___ _______ __ _____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '8645689', 'state': '__I___ ___ _______ __ _____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '8645689', 'state': '__I___ __E _E___E_ __ _____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '8645689', 'state': '__I___ A_E _E___E_ __ _____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '8645689', 'state': 'T_I___ A_E _ETT_E_ __ _____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '8645689', 'state': 'T_I___ A_E _ETT_E_ _O O____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '8645689', 'state': 'T_IN__ A_E _ETT_E_ _O O____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '8645689', 'state': 'T_IN_S A_E SETT_E_ SO O____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '8645689', 'state': 'T_IN_S ARE SETT_E_ SO O____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '8645689', 'state': 'T_IN_S ARE SETT_ED SO ODD__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '8645689', 'state': 'T_IN_S ARE SETTLED SO ODDL_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '8645689', 'state': 'THIN_S ARE SETTLED SO ODDL_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  G
+{'token': '8645689', 'state': 'THINGS ARE SETTLED SO ODDL_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  Y
+{'token': '8645689', 'state': 'THINGS ARE SETTLED SO ODDLY', 'remaining_guesses': 3, 'status': 'FREE'}
+
+
+Success:  THINGS ARE SETTLED SO ODDLY
+
+
+
+
+Round  43
+{'token': '8326245', 'state': '____ _ _______ _____ ______', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '8326245', 'state': '____ A _A_____ __A__ ______', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '8326245', 'state': '_E_E A _A____E _EA__ ____E_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '8326245', 'state': '_ERE A _A____E _EAR_ ____E_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  W
+{'token': '8326245', 'state': '_ERE A _A____E _EAR_ ____E_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '8326245', 'state': '_ERE A _A____E _EAR_ __S_E_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '8326245', 'state': '_ERE A _A_T__E _EART __STE_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '8326245', 'state': 'HERE A _A_T__E HEART __STE_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '8326245', 'state': 'HERE A _A_TI_E HEART __STE_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '8326245', 'state': 'HERE A _A_TI_E HEART __STE_', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '8326245', 'state': 'HERE A CA_TI_E HEART __STE_', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  P
+{'token': '8326245', 'state': 'HERE A CAPTI_E HEART __STE_', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  V
+{'token': '8326245', 'state': 'HERE A CAPTIVE HEART __STE_', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '8326245', 'state': 'HERE A CAPTIVE HEART __STED', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  U
+{'token': '8326245', 'state': 'HERE A CAPTIVE HEART _USTED', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  B
+{'token': '8326245', 'state': 'HERE A CAPTIVE HEART BUSTED', 'remaining_guesses': 1, 'status': 'FREE'}
+
+
+Success:  HERE A CAPTIVE HEART BUSTED
+
+
+
+
+Round  44
+{'token': '7092984', 'state': '___ ___ __ ____ ____ ____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '7092984', 'state': '___ ___ T_ ____ ____ ____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '7092984', 'state': '_O_ ___ TO ____ _O__ ____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '7092984', 'state': '_O_ __E TO ____ _O__ ___E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '7092984', 'state': '_O_ A_E TO _A__ _O__ ___E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '7092984', 'state': '_O_ ARE TO _A__ _O_R ___E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '7092984', 'state': '_O_ ARE TO _A__ _O_R ___E', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '7092984', 'state': '_O_ ARE TO _A__ _O_R _I_E', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '7092984', 'state': '_O_ ARE TO _A__ _O_R LI_E', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  F
+{'token': '7092984', 'state': '_O_ ARE TO _A__ _O_R LIFE', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  K
+{'token': '7092984', 'state': '_O_ ARE TO _A__ _O_R LIFE', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '7092984', 'state': '_O_ ARE TO _ASS _O_R LIFE', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '7092984', 'state': 'YOU ARE TO PASS YOUR LIFE', 'remaining_guesses': 0, 'status': 'DEAD'}
+
+
+Fail:  YOU ARE TO PASS YOUR LIFE
+
+
+
+
+Round  45
+{'token': '7380603', 'state': '___ ____ _________ ______ ________', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '7380603', 'state': '__T ____ __T______ ______ ________', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '7380603', 'state': '__T ____ __T_E___E _EE_E_ _E____E_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '7380603', 'state': '__T ____ __T_E___E _EE_E_ _E____E_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '7380603', 'state': '__T _A__ _AT_E___E _EE_E_ _E____E_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '7380603', 'state': '__T _A__ _AT_E__NE _EE_E_ _E___NE_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '7380603', 'state': '__T _A__ _AT_E_INE _EE_E_ _E_I_NE_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '7380603', 'state': '__T _A__ _AT_E_INE SEE_E_ _ESI_NE_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '7380603', 'state': '__T _AD_ _AT_E_INE SEE_ED _ESI_NED', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  U
+{'token': '7380603', 'state': '_UT _AD_ _AT_E_INE SEE_ED _ESI_NED', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  B
+{'token': '7380603', 'state': 'BUT _AD_ _AT_E_INE SEE_ED _ESI_NED', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '7380603', 'state': 'BUT LAD_ _AT_E_INE SEE_ED _ESI_NED', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  Y
+{'token': '7380603', 'state': 'BUT LADY _AT_E_INE SEE_ED _ESI_NED', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '7380603', 'state': 'BUT LADY _AT_ERINE SEE_ED RESI_NED', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  G
+{'token': '7380603', 'state': 'BUT LADY _AT_ERINE SEE_ED RESIGNED', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  M
+{'token': '7380603', 'state': 'BUT LADY _AT_ERINE SEEMED RESIGNED', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '7380603', 'state': 'BUT LADY _ATHERINE SEEMED RESIGNED', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '7380603', 'state': 'BUT LADY CATHERINE SEEMED RESIGNED', 'remaining_guesses': 2, 'status': 'FREE'}
+
+
+Success:  BUT LADY CATHERINE SEEMED RESIGNED
+
+
+
+
+Round  46
+{'token': '7228567', 'state': '____ ___ ___ _____ _________ _____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '7228567', 'state': '____ ___ ___ __I__ _________ ___I_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '7228567', 'state': '__E_ __E ___ __I__ ____E__E_ ___I_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '7228567', 'state': 'T_E_ T_E ___ T_I__ ____E__E_ ___I_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '7228567', 'state': 'THE_ THE ___ THI__ ____E__E_ ___I_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '7228567', 'state': 'THE_ THE ___ THI__ ____E__E_ A_AI_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '7228567', 'state': 'THE_ THE O__ THI__ _O__E__E_ A_AI_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '7228567', 'state': 'THEN THE O__ THIN_ _O__EN_E_ A_AIN', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '7228567', 'state': 'THEN THE O_D THIN_ _O__EN_ED A_AIN', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '7228567', 'state': 'THEN THE OLD THIN_ _O__EN_ED A_AIN', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  G
+{'token': '7228567', 'state': 'THEN THE OLD THING _O__EN_ED AGAIN', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '7228567', 'state': 'THEN THE OLD THING CO__ENCED AGAIN', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  M
+{'token': '7228567', 'state': 'THEN THE OLD THING COMMENCED AGAIN', 'remaining_guesses': 3, 'status': 'FREE'}
+
+
+Success:  THEN THE OLD THING COMMENCED AGAIN
+
+
+
+
+Round  47
+{'token': '8926568', 'state': '____ ___ ____ __ ___ __________', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '8926568', 'state': '____ ___ ____ __ ___ ___E______', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '8926568', 'state': '___T ___ ___T _T ___ ___E__T___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '8926568', 'state': '__AT ___ _A_T _T ___ ___E__TA__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '8926568', 'state': '__AT _O_ _A_T _T _O_ ___E__TA__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '8926568', 'state': '__AT _O_ _A_T _T _O_ ___ER_TA__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '8926568', 'state': '__AT _O_ _ANT _T _O_ _N_ER_TAN_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '8926568', 'state': '__AT _O_ _ANT _T _O_ _N_ER_TAN_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '8926568', 'state': '_HAT _O_ _ANT _T _O_ _N_ER_TAN_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  W
+{'token': '8926568', 'state': 'WHAT _O_ WANT _T _O_ _N_ER_TAN_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  U
+{'token': '8926568', 'state': 'WHAT _OU WANT _T _OU UN_ER_TAN_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  Y
+{'token': '8926568', 'state': 'WHAT YOU WANT _T YOU UN_ER_TAN_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '8926568', 'state': 'WHAT YOU WANT IT YOU UN_ER_TAN_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '8926568', 'state': 'WHAT YOU WANT IT YOU UN_ERSTAN_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '8926568', 'state': 'WHAT YOU WANT IT YOU UNDERSTAND', 'remaining_guesses': 2, 'status': 'FREE'}
+
+
+Success:  WHAT YOU WANT IT YOU UNDERSTAND
+
+
+
+
+Round  48
+{'token': '8014315', 'state': '___ ___ __ ___ _____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '8014315', 'state': '___ ___ __ __E __E__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '8014315', 'state': '___ ___ __ __E __E__', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '8014315', 'state': '_O_ _O_ _O __E __E__', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '8014315', 'state': '_O_ _OT TO T_E _TE__', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '8014315', 'state': '_O_ _OT TO THE _TE__', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '8014315', 'state': '_O_ _OT TO THE _TER_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '8014315', 'state': '_O_ _OT TO THE _TERN', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '8014315', 'state': '_O_ _OT TO THE _TERN', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  U
+{'token': '8014315', 'state': '_OU _OT TO THE _TERN', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  Y
+{'token': '8014315', 'state': 'YOU _OT TO THE _TERN', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  G
+{'token': '8014315', 'state': 'YOU GOT TO THE _TERN', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '8014315', 'state': 'YOU GOT TO THE STERN', 'remaining_guesses': 1, 'status': 'FREE'}
+
+
+Success:  YOU GOT TO THE STERN
+
+
+
+
+Round  49
+{'token': '9445089', 'state': '____ __ ___ ____ ______ ___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '9445089', 'state': '____ __ T__ ____ ______ ___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '9445089', 'state': '____ __ T__ ____ ___O__ ___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '9445089', 'state': 'E_E_ __ T_E ___E _E_O_E ___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '9445089', 'state': 'E_E_ __ T_E _A_E _E_O_E ___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '9445089', 'state': 'E_E_ I_ T_E _A_E _E_O_E _I_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '9445089', 'state': 'E_EN IN T_E _A_E _E_O_E _I_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '9445089', 'state': 'E_EN IN THE _A_E _E_O_E HI_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '9445089', 'state': 'E_EN IN THE _ASE _E_O_E HI_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '9445089', 'state': 'E_EN IN THE _ASE _E_ORE HI_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  F
+{'token': '9445089', 'state': 'E_EN IN THE _ASE _EFORE HI_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  B
+{'token': '9445089', 'state': 'E_EN IN THE _ASE BEFORE HI_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  M
+{'token': '9445089', 'state': 'E_EN IN THE _ASE BEFORE HIM', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  V
+{'token': '9445089', 'state': 'EVEN IN THE _ASE BEFORE HIM', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '9445089', 'state': 'EVEN IN THE CASE BEFORE HIM', 'remaining_guesses': 3, 'status': 'FREE'}
+
+
+Success:  EVEN IN THE CASE BEFORE HIM
+
+
+
+
+Round  50
+{'token': '6776750', 'state': '___ ___________ __ ____ ___ _______', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '6776750', 'state': '__E _E_________ __ ____ __E _E_____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '6776750', 'state': 'T_E _E_____T___ __ ____ __E _E_____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '6776750', 'state': 'T_E _E_____T___ __ ____ __E _EA____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '6776750', 'state': 'T_E _E_____T_O_ O_ O___ O_E _EA____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '6776750', 'state': 'T_E _E___I_TIO_ O_ O___ O_E _EA_I__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '6776750', 'state': 'T_E _E___I_TION O_ ON__ ONE _EANIN_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '6776750', 'state': 'THE _E___I_TION O_ ON__ ONE _EANIN_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  F
+{'token': '6776750', 'state': 'THE _E___I_TION OF ON__ ONE _EANIN_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '6776750', 'state': 'THE _E___I_TION OF ONL_ ONE _EANIN_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  Y
+{'token': '6776750', 'state': 'THE _E___I_TION OF ONLY ONE _EANIN_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  M
+{'token': '6776750', 'state': 'THE _E___I_TION OF ONLY ONE MEANIN_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  G
+{'token': '6776750', 'state': 'THE _E___I_TION OF ONLY ONE MEANING', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '6776750', 'state': 'THE _ES__I_TION OF ONLY ONE MEANING', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '6776750', 'state': 'THE _ES_RI_TION OF ONLY ONE MEANING', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '6776750', 'state': 'THE DES_RI_TION OF ONLY ONE MEANING', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '6776750', 'state': 'THE DESCRI_TION OF ONLY ONE MEANING', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  P
+{'token': '6776750', 'state': 'THE DESCRIPTION OF ONLY ONE MEANING', 'remaining_guesses': 3, 'status': 'FREE'}
+
+
+Success:  THE DESCRIPTION OF ONLY ONE MEANING
+
+
+
+
+Round  51
+{'token': '4250727', 'state': '___ __________ _____ ___ ___________ ________', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '4250727', 'state': '__E _E________ _____ ___ E__E_______ _____E__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '4250727', 'state': 'T_E _E________ ___T_ ___ E__E_T_____ ___T_E__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '4250727', 'state': 'T_E _E______A_ _A_T_ _A_ E__E_T_A___ ___T_E__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '4250727', 'state': 'T_E _E____I_A_ _A_T_ _A_ E__E_TIA___ ___T_E__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '4250727', 'state': 'T_E _E____I_AN _A_T_ _A_ E__ENTIA___ N__T_E_N', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '4250727', 'state': 'T_E RE____I_AN _ART_ _A_ E__ENTIA___ N_RT_ERN', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '4250727', 'state': 'T_E RE____I_AN _ART_ _AS ESSENTIA___ N_RT_ERN', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '4250727', 'state': 'T_E RE___LI_AN _ART_ _AS ESSENTIALL_ N_RT_ERN', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  Y
+{'token': '4250727', 'state': 'T_E RE___LI_AN _ARTY _AS ESSENTIALLY N_RT_ERN', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '4250727', 'state': 'THE RE___LI_AN _ARTY _AS ESSENTIALLY N_RTHERN', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  W
+{'token': '4250727', 'state': 'THE RE___LI_AN _ARTY WAS ESSENTIALLY N_RTHERN', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '4250727', 'state': 'THE RE___LI_AN _ARTY WAS ESSENTIALLY NORTHERN', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  P
+{'token': '4250727', 'state': 'THE REP__LI_AN PARTY WAS ESSENTIALLY NORTHERN', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '4250727', 'state': 'THE REP__LICAN PARTY WAS ESSENTIALLY NORTHERN', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  U
+{'token': '4250727', 'state': 'THE REPU_LICAN PARTY WAS ESSENTIALLY NORTHERN', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  B
+{'token': '4250727', 'state': 'THE REPUBLICAN PARTY WAS ESSENTIALLY NORTHERN', 'remaining_guesses': 3, 'status': 'FREE'}
+
+
+Success:  THE REPUBLICAN PARTY WAS ESSENTIALLY NORTHERN
+
+
+
+
+Round  52
+{'token': '8479436', 'state': '____ __ ___ ________ ______ __', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '8479436', 'state': '____ __ ___ ____T___ ______ __', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '8479436', 'state': '__O_ __ O__ ____T___ ____O_ __', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '8479436', 'state': '__O_ __ O__ _I__T___ ___IO_ __', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '8479436', 'state': '__O_ __ O__ _I__T__E _E_IO_ __', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '8479436', 'state': '__O_ A_ O__ _I_AT__E _E_IO_ __', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '8479436', 'state': '_RO_ A_ O__ _I_AT_RE _ERIO_ __', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '8479436', 'state': '_RO_ A_ O_D _I_AT_RE _ERIOD __', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '8479436', 'state': '_RO_ A_ OLD _I_AT_RE _ERIOD __', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '8479436', 'state': '_RO_ A_ OLD _I_AT_RE _ERIOD __', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  Y
+{'token': '8479436', 'state': '_RO_ A_ OLD _I_AT_RE _ERIOD __', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  M
+{'token': '8479436', 'state': '_ROM A_ OLD MI_AT_RE _ERIOD __', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  F
+{'token': '8479436', 'state': 'FROM A_ OLD MI_AT_RE _ERIOD __', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '8479436', 'state': 'FROM AN OLD MINAT_RE _ERIOD __', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  U
+{'token': '8479436', 'state': 'FROM AN OLD MINATURE _ERIOD __', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  P
+{'token': '8479436', 'state': 'FROM AN OLD MINATURE PERIOD __', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '8479436', 'state': 'FROM AN OLD MINATURE PERIOD XV', 'remaining_guesses': 0, 'status': 'DEAD'}
+
+
+Fail:  FROM AN OLD MINATURE PERIOD XV
+
+
+
+
+Round  53
+{'token': '6670072', 'state': "____ ___ ____ _'__ __ __", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '6670072', 'state': "____ ___ ____ _'__ __ _T", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '6670072', 'state': "____ ___ ____ _'__ _O _T", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '6670072', 'state': "_E__ __E ____ _'__ _O _T", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '6670072', 'state': "_E__ __E _A__ _'__ _O _T", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '6670072', 'state': "_E__ __E _A__ _'__ _O _T", 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '6670072', 'state': "_E__ S_E SA_S _'__ _O _T", 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '6670072', 'state': "_E__ S_E SA_S I'__ _O IT", 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '6670072', 'state': "_ELL S_E SA_S I'LL _O IT", 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  W
+{'token': '6670072', 'state': "WELL S_E SA_S I'LL _O IT", 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '6670072', 'state': "WELL SHE SA_S I'LL _O IT", 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '6670072', 'state': "WELL SHE SA_S I'LL DO IT", 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  Y
+{'token': '6670072', 'state': "WELL SHE SAYS I'LL DO IT", 'remaining_guesses': 2, 'status': 'FREE'}
+
+
+Success:  WELL SHE SAYS I'LL DO IT
+
+
+
+
+Round  54
+{'token': '5355032', 'state': '__ ___ ________ __ ______', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '5355032', 'state': '__ ___ _O______ O_ ______', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '5355032', 'state': '__ ___ _O______ O_ ______', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '5355032', 'state': '__ __E _O___E__ O_ _E____', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '5355032', 'state': '__ __E _O___E__ O_ _E____', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '5355032', 'state': '__ T_E _O__TE__ O_ _E____', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '5355032', 'state': 'BY THE COURTESY OF MESSRS', 'remaining_guesses': 0, 'status': 'DEAD'}
+
+
+Fail:  BY THE COURTESY OF MESSRS
+
+
+
+
+Round  55
+{'token': '4274106', 'state': '___ ____ ___ ____ _______', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '4274106', 'state': '___ ____ __E ___E ___E___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '4274106', 'state': '___ _A__ __E ___E ___E___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '4274106', 'state': '___ _A__ __E ___E _O_E_O_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '4274106', 'state': '___ _A__ T_E T__E _O_E_O_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '4274106', 'state': '___ _A__ T_E TI_E _O_E_O_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '4274106', 'state': '___ _A__ T_E TI_E _O_E_O_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '4274106', 'state': '_H_ HA__ THE TI_E _O_EHO_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  M
+{'token': '4274106', 'state': '_H_ HA__ THE TIME _OMEHO_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '4274106', 'state': '_H_ HAL_ THE TIME _OMEHO_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  F
+{'token': '4274106', 'state': '_H_ HALF THE TIME _OMEHO_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '4274106', 'state': '_H_ HALF THE TIME _OMEHO_', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  W
+{'token': '4274106', 'state': 'WH_ HALF THE TIME _OMEHOW', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  Y
+{'token': '4274106', 'state': 'WHY HALF THE TIME _OMEHOW', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '4274106', 'state': 'WHY HALF THE TIME SOMEHOW', 'remaining_guesses': 1, 'status': 'FREE'}
+
+
+Success:  WHY HALF THE TIME SOMEHOW
+
+
+
+
+Round  56
+{'token': '6652588', 'state': '____ ___ ______ __ ____ ____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '6652588', 'state': '____ T__ ___T__ __ T___ ____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '6652588', 'state': '_O__ T__ ___T__ O_ T___ ____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '6652588', 'state': '_O__ T_E _E_T_E O_ T___ _E__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '6652588', 'state': '_O__ THE _E_T_E O_ TH__ _E__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  F
+{'token': '6652588', 'state': '_O__ THE _E_T_E OF TH__ _E__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '6652588', 'state': '_O__ THE _E_T_E OF THI_ _E__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '6652588', 'state': '_O__ THE _E_T_E OF THIS _E_S', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '6652588', 'state': '_O_N THE _ENT_E OF THIS _ENS', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '6652588', 'state': '_O_N THE _ENTRE OF THIS _ENS', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '6652588', 'state': 'DO_N THE _ENTRE OF THIS _ENS', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  W
+{'token': '6652588', 'state': 'DOWN THE _ENTRE OF THIS _ENS', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '6652588', 'state': 'DOWN THE CENTRE OF THIS _ENS', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  M
+{'token': '6652588', 'state': 'DOWN THE CENTRE OF THIS _ENS', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '6652588', 'state': 'DOWN THE CENTRE OF THIS LENS', 'remaining_guesses': 2, 'status': 'FREE'}
+
+
+Success:  DOWN THE CENTRE OF THIS LENS
+
+
+
+
+Round  57
+{'token': '6494982', 'state': '____ _______ _ ___ __ ______', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '6494982', 'state': '__A_ _______ _ _A_ __ __A___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '6494982', 'state': '__A_ ___E_E_ _ _A_ __ _EA___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '6494982', 'state': 'T_AT ___E_E_ _ _A_ __ _EA___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '6494982', 'state': 'T_AT _O_E_E_ _ _A_ __ _EA___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '6494982', 'state': 'THAT HO_E_E_ _ _A_ __ _EA__H', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '6494982', 'state': 'THAT HO_E_E_ _ _AS __ SEA__H', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '6494982', 'state': 'THAT HO_E_ER _ _AS __ SEAR_H', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  W
+{'token': '6494982', 'state': 'THAT HOWE_ER _ WAS __ SEAR_H', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '6494982', 'state': 'THAT HOWE_ER I WAS I_ SEAR_H', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '6494982', 'state': 'THAT HOWE_ER I WAS IN SEAR_H', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  V
+{'token': '6494982', 'state': 'THAT HOWEVER I WAS IN SEAR_H', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '6494982', 'state': 'THAT HOWEVER I WAS IN SEARCH', 'remaining_guesses': 3, 'status': 'FREE'}
+
+
+Success:  THAT HOWEVER I WAS IN SEARCH
+
+
+
+
+Round  58
+{'token': '2658894', 'state': '___ ____ ____ ____ _______ ____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '2658894', 'state': '___ ____ T___ ____ __T____ ____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '2658894', 'state': '___ _O__ T___ ____ __T_O__ ____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '2658894', 'state': '___ _O_E T___ ____ __T_O__ ___E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '2658894', 'state': '_A_ _O_E T_A_ ____ _AT_O__ ___E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '2658894', 'state': '_A_ _O_E T_A_ ____ _AT_O_S ___E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '2658894', 'state': '_A_ _O_E T_A_ ____ _AT_O_S _I_E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '2658894', 'state': '_AR _ORE T_A_ ____ _AT_O_S _I_E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '2658894', 'state': '_AR _ORE T_AN ____ _AT_O_S _I_E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '2658894', 'state': '_AR _ORE THAN ____ _ATHO_S _I_E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  M
+{'token': '2658894', 'state': '_AR MORE THAN ____ _ATHOMS _I_E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '2658894', 'state': '_AR MORE THAN __LL _ATHOMS _I_E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  F
+{'token': '2658894', 'state': 'FAR MORE THAN F_LL FATHOMS FI_E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  V
+{'token': '2658894', 'state': 'FAR MORE THAN F_LL FATHOMS FIVE', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  U
+{'token': '2658894', 'state': 'FAR MORE THAN FULL FATHOMS FIVE', 'remaining_guesses': 3, 'status': 'FREE'}
+
+
+Success:  FAR MORE THAN FULL FATHOMS FIVE
+
+
+
+
+Round  59
+{'token': '5383198', 'state': '_ ___ ______ __ ___ _____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '5383198', 'state': '_ ___ ______ __ _E_ ____E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '5383198', 'state': '_ _A_ ______ __ _E_ ____E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '5383198', 'state': '_ _AS ______ __ _E_ ___SE', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '5383198', 'state': 'I _AS ___I__ __ _E_ ___SE', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '5383198', 'state': 'I _AS ___IN_ __ _E_ ___SE', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '5383198', 'state': 'I _AS ___IN_ _O _E_ _OOSE', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '5383198', 'state': 'I _AS T__IN_ TO _ET _OOSE', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  W
+{'token': '5383198', 'state': 'I WAS T__IN_ TO _ET _OOSE', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  G
+{'token': '5383198', 'state': 'I WAS T__ING TO GET _OOSE', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '5383198', 'state': 'I WAS TR_ING TO GET _OOSE', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  Y
+{'token': '5383198', 'state': 'I WAS TRYING TO GET _OOSE', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '5383198', 'state': 'I WAS TRYING TO GET LOOSE', 'remaining_guesses': 3, 'status': 'FREE'}
+
+
+Success:  I WAS TRYING TO GET LOOSE
+
+
+
+
+Round  60
+{'token': '8100773', 'state': '____ ____ __ __ __ _____-______', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '8100773', 'state': '___O ____ __ _O __ ____O-______', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '8100773', 'state': '___O ____ I_ _O __ ___IO-___I__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '8100773', 'state': 'A__O __A_ I_ _O __ _A_IO-A__I__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '8100773', 'state': 'A__O __AT I_ TO __ _A_IO-A_TI__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '8100773', 'state': 'A__O __AT I_ TO __ _A_IO-A_TI__', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '8100773', 'state': 'A_SO __AT IS TO __ _A_IO-A_TI__', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  Y
+{'token': '8100773', 'state': 'A_SO __AT IS TO __ _A_IO-A_TI__', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '8100773', 'state': 'A_SO __AT IS TO _E _A_IO-A_TI_E', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '8100773', 'state': 'A_SO _HAT IS TO _E _A_IO-A_TI_E', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  B
+{'token': '8100773', 'state': 'A_SO _HAT IS TO BE _A_IO-A_TI_E', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '8100773', 'state': 'ALSO _HAT IS TO BE _A_IO-A_TI_E', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  W
+{'token': '8100773', 'state': 'ALSO WHAT IS TO BE _A_IO-A_TI_E', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '8100773', 'state': 'ALSO WHAT IS TO BE RA_IO-A_TI_E', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '8100773', 'state': 'ALSO WHAT IS TO BE RADIO-A_TI_E', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '8100773', 'state': 'ALSO WHAT IS TO BE RADIO-ACTI_E', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  V
+{'token': '8100773', 'state': 'ALSO WHAT IS TO BE RADIO-ACTIVE', 'remaining_guesses': 1, 'status': 'FREE'}
+
+
+Success:  ALSO WHAT IS TO BE RADIO-ACTIVE
+
+
+
+
+Round  61
+{'token': '1809356', 'state': '___ ___ __ ___ ________', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '1809356', 'state': '___ ___ __ ___ _______E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '1809356', 'state': '_A_ ___ A_ A__ _A_____E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '1809356', 'state': '_AS ___ A_ A__ _A__S__E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '1809356', 'state': '_AS _O_ A_ A__ _A__SO_E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '1809356', 'state': '_AS NO_ A_ A__ _AN_SO_E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '1809356', 'state': '_AS NOT AT A__ _AN_SO_E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  W
+{'token': '1809356', 'state': 'WAS NOT AT A__ _AN_SO_E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '1809356', 'state': 'WAS NOT AT ALL _AN_SO_E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '1809356', 'state': 'WAS NOT AT ALL HAN_SO_E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '1809356', 'state': 'WAS NOT AT ALL HANDSO_E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  M
+{'token': '1809356', 'state': 'WAS NOT AT ALL HANDSOME', 'remaining_guesses': 3, 'status': 'FREE'}
+
+
+Success:  WAS NOT AT ALL HANDSOME
+
+
+
+
+Round  62
+{'token': '3196674', 'state': '__ _ ____ __ ___ _______', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '3196674', 'state': '__ _ ____ O_ ___ _O_____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '3196674', 'state': 'A_ A _A__ O_ ___ _O_____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '3196674', 'state': 'A_ A _A__ O_ __E _O_____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '3196674', 'state': 'A_ A _A_T O_ T_E _O__T__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '3196674', 'state': 'A_ A _A_T O_ THE _O__T__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  F
+{'token': '3196674', 'state': 'A_ A _A_T OF THE _O__T__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '3196674', 'state': 'AS A _A_T OF THE _O__T__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '3196674', 'state': 'AS A _ART OF THE _O__TR_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  P
+{'token': '3196674', 'state': 'AS A PART OF THE _O__TR_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '3196674', 'state': 'AS A PART OF THE _O_NTR_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '3196674', 'state': 'AS A PART OF THE CO_NTR_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  U
+{'token': '3196674', 'state': 'AS A PART OF THE COUNTR_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  Y
+{'token': '3196674', 'state': 'AS A PART OF THE COUNTRY', 'remaining_guesses': 3, 'status': 'FREE'}
+
+
+Success:  AS A PART OF THE COUNTRY
+
+
+
+
+Round  63
+{'token': '9576265', 'state': '______ _____________', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '9576265', 'state': '______ __________I__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '9576265', 'state': '______ E__E______I__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '9576265', 'state': '______ E__E___O__I__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '9576265', 'state': '_____T E__E___O__I__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '9576265', 'state': '_A___T EA_E___O__I__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '9576265', 'state': '_A__HT EA_E___O__I__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '9576265', 'state': 'CA__HT EA_E___O__I__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  U
+{'token': '9576265', 'state': 'CAU_HT EA_E___O__I__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  G
+{'token': '9576265', 'state': 'CAUGHT EA_E___O__I_G', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '9576265', 'state': 'CAUGHT EA_E___O__ING', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '9576265', 'state': 'CAUGHT EA_ES__O__ING', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '9576265', 'state': 'CAUGHT EA_ES_RO__ING', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '9576265', 'state': 'CAUGHT EA_ESDRO__ING', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  P
+{'token': '9576265', 'state': 'CAUGHT EA_ESDROPPING', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  V
+{'token': '9576265', 'state': 'CAUGHT EAVESDROPPING', 'remaining_guesses': 3, 'status': 'FREE'}
+
+
+Success:  CAUGHT EAVESDROPPING
+
+
+
+
+Round  64
+{'token': '7904602', 'state': '___ ___ ___ __ ___ ________', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '7904602', 'state': '__E ___ E__ __ __E __E_____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '7904602', 'state': 'T_E T__ E__ __ T_E __E_T___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '7904602', 'state': 'THE T__ E__ __ THE __E_T___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '7904602', 'state': 'THE TO_ E__ O_ THE __E_T___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  F
+{'token': '7904602', 'state': 'THE TO_ E__ OF THE __E_T___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '7904602', 'state': 'THE TO_ EN_ OF THE __E_T___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '7904602', 'state': 'THE TO_ END OF THE __E_T___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  P
+{'token': '7904602', 'state': 'THE TOP END OF THE _PE_T___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '7904602', 'state': 'THE TOP END OF THE SPE_T___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '7904602', 'state': 'THE TOP END OF THE SPE_TR__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '7904602', 'state': 'THE TOP END OF THE SPECTR__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  U
+{'token': '7904602', 'state': 'THE TOP END OF THE SPECTRU_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  M
+{'token': '7904602', 'state': 'THE TOP END OF THE SPECTRUM', 'remaining_guesses': 3, 'status': 'FREE'}
+
+
+Success:  THE TOP END OF THE SPECTRUM
+
+
+
+
+Round  65
+{'token': '8037043', 'state': '____ ___ _______ ___ ________ ______', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '8037043', 'state': '____ ___ T______ T__ ___T____ __T___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '8037043', 'state': '____ ___ T__O___ T__ _O_T____ __T___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '8037043', 'state': '_E__ ___ T__O___ T_E _O_T_E__ __TE__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '8037043', 'state': '_E__ A__ T__O___ T_E _O_T_E__ _ATE__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '8037043', 'state': '_E__ A__ T__O___ T_E NO_T_E_N _ATE__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '8037043', 'state': '_E__ A__ TH_O__H THE NO_THE_N _ATE__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '8037043', 'state': '_ELL ALL TH_O__H THE NO_THE_N _ATE__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '8037043', 'state': '_ELL ALL THRO__H THE NORTHERN _ATER_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  U
+{'token': '8037043', 'state': '_ELL ALL THROU_H THE NORTHERN _ATER_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  G
+{'token': '8037043', 'state': '_ELL ALL THROUGH THE NORTHERN _ATER_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  W
+{'token': '8037043', 'state': 'WELL ALL THROUGH THE NORTHERN WATER_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '8037043', 'state': 'WELL ALL THROUGH THE NORTHERN WATERS', 'remaining_guesses': 3, 'status': 'FREE'}
+
+
+Success:  WELL ALL THROUGH THE NORTHERN WATERS
+
+
+
+
+Round  66
+{'token': '8497550', 'state': '__ _________ ___ _____ __ ______', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '8497550', 'state': '__ _________ ___ _____ __ __I___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '8497550', 'state': '_E _E_____E_ ___ _____ __ __I___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '8497550', 'state': '_E _E__O__E_ ___ _O___ O_ __I___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '8497550', 'state': '_E _E__O__E_ A__ _O___ O_ __I___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '8497550', 'state': '_E _E__O__E_ A__ _O_T_ O_ T_I___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '8497550', 'state': '_E _E__O__E_ A__ _O_T_ O_ T_I___', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '8497550', 'state': '_E _E__O__E_ A__ SO_TS O_ T_I__S', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '8497550', 'state': 'HE _E__O__E_ A__ SO_TS O_ T_I__S', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '8497550', 'state': 'HE _ER_OR_E_ A__ SORTS O_ TRI__S', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  F
+{'token': '8497550', 'state': 'HE _ERFOR_E_ A__ SORTS OF TRI__S', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '8497550', 'state': 'HE _ERFOR_E_ ALL SORTS OF TRI__S', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '8497550', 'state': 'HE _ERFOR_ED ALL SORTS OF TRI__S', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  M
+{'token': '8497550', 'state': 'HE _ERFORMED ALL SORTS OF TRI__S', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  P
+{'token': '8497550', 'state': 'HE PERFORMED ALL SORTS OF TRI__S', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  K
+{'token': '8497550', 'state': 'HE PERFORMED ALL SORTS OF TRI_KS', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '8497550', 'state': 'HE PERFORMED ALL SORTS OF TRICKS', 'remaining_guesses': 2, 'status': 'FREE'}
+
+
+Success:  HE PERFORMED ALL SORTS OF TRICKS
+
+
+
+
+Round  67
+{'token': '6161137', 'state': '____ ___ _________ __ _____ _', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '6161137', 'state': '_I__ ___ ______I__ __ ___I_ _', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '6161137', 'state': '_IT_ T__ ______I__ __ ___I_ _', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '6161137', 'state': '_IT_ T__ ______IO_ O_ _O_I_ _', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '6161137', 'state': '_IT_ T_E ___E__IO_ O_ _O_I_ _', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '6161137', 'state': '_ITH THE ___E__IO_ O_ _O_I_ _', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '6161137', 'state': '_ITH THE A__E__IO_ O_ _O_I_ _', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '6161137', 'state': '_ITH THE A__ESSIO_ O_ _O_IS _', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  F
+{'token': '6161137', 'state': '_ITH THE A__ESSIO_ OF _O_IS _', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  W
+{'token': '6161137', 'state': 'WITH THE A__ESSIO_ OF _O_IS _', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  M
+{'token': '6161137', 'state': 'WITH THE A__ESSIO_ OF _O_IS _', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  J
+{'token': '6161137', 'state': 'WITH THE A__ESSIO_ OF _O_IS _', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  V
+{'token': '6161137', 'state': 'WITH THE ACCESSION OF LOUIS X', 'remaining_guesses': 0, 'status': 'DEAD'}
+
+
+Fail:  WITH THE ACCESSION OF LOUIS X
+
+
+
+
+Round  68
+{'token': '6506513', 'state': '__ ___ ___ _____ _________', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '6506513', 'state': '__ ___ __E _____ _______E_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '6506513', 'state': '__ A__ __E ___A_ _______E_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '6506513', 'state': '__ A__ __E _O_A_ __O____E_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '6506513', 'state': 'I_ A__ __E _O_A_ __O_I__E_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '6506513', 'state': 'IN A__ __E _O_AN __O_IN_E_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '6506513', 'state': 'IN A__ T_E _O_AN __O_IN_E_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '6506513', 'state': 'IN A__ THE _O_AN __O_IN_E_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '6506513', 'state': 'IN ALL THE _O_AN __O_IN_E_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '6506513', 'state': 'IN ALL THE RO_AN _RO_IN_E_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  M
+{'token': '6506513', 'state': 'IN ALL THE ROMAN _RO_IN_E_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '6506513', 'state': 'IN ALL THE ROMAN _RO_IN_ES', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '6506513', 'state': 'IN ALL THE ROMAN _RO_INCES', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  P
+{'token': '6506513', 'state': 'IN ALL THE ROMAN PRO_INCES', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  V
+{'token': '6506513', 'state': 'IN ALL THE ROMAN PROVINCES', 'remaining_guesses': 3, 'status': 'FREE'}
+
+
+Success:  IN ALL THE ROMAN PROVINCES
+
+
+
+
+Round  69
+{'token': '7947793', 'state': '____ ___ ______ __ ___ _____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '7947793', 'state': '_E__ __E _E__E_ __ __E _E___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '7947793', 'state': '_E__ T_E _E__E_ __ T_E _E___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '7947793', 'state': '_E__ THE _E__E_ __ THE _E___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '7947793', 'state': '_E__ THE _E__E_ O_ THE _EO__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  F
+{'token': '7947793', 'state': '_E__ THE _E__E_ OF THE _EO__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '7947793', 'state': '_E__ THE LE__E_ OF THE _EO__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '7947793', 'state': '_E__ THE LEA_E_ OF THE _EO__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '7947793', 'state': '_E__ THE LEA_ER OF THE _EO__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '7947793', 'state': '_E__ THE LEA_ER OF THE _EON_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '7947793', 'state': '_E_S THE LEA_ER OF THE _EONS', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '7947793', 'state': 'DE_S THE LEADER OF THE _EONS', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '7947793', 'state': 'DE_S THE LEADER OF THE _EONS', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  U
+{'token': '7947793', 'state': 'DE_S THE LEADER OF THE _EONS', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  Z
+{'token': '7947793', 'state': 'DEBS THE LEADER OF THE PEONS', 'remaining_guesses': 0, 'status': 'DEAD'}
+
+
+Fail:  DEBS THE LEADER OF THE PEONS
+
+
+
+
+Round  70
+{'token': '6470916', 'state': '_____ __ ______ _____ __ ____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '6470916', 'state': '__I__ I_ ______ ___I_ I_ ____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '6470916', 'state': '__I__ I_ _____N ___I_ I_ ____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '6470916', 'state': '__I__ IS _____N ___I_ IS ____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '6470916', 'state': '__I_E IS _____N ___I_ IS ___E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '6470916', 'state': '__I_E IS _____N ___I_ IS _A_E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '6470916', 'state': '__I_E IS _____N ___I_ IS _A_E', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '6470916', 'state': '__I_E IS _O__ON _O_I_ IS _A_E', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '6470916', 'state': 'C_I_E IS CO__ON _O_IC IS _A_E', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '6470916', 'state': 'C_I_E IS CO__ON _O_IC IS _A_E', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  K
+{'token': '6470916', 'state': 'CRIME IS COMMON LOGIC IS RARE', 'remaining_guesses': 0, 'status': 'DEAD'}
+
+
+Fail:  CRIME IS COMMON LOGIC IS RARE
+
+
+
+
+Round  71
+{'token': '5469443', 'state': '__ ____ _________ ____ ____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '5469443', 'state': '_T ___T _________ ____ ____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '5469443', 'state': '_T ___T _________ __O_ _O__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '5469443', 'state': '_T ___T __A__A___ __O_ _O__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '5469443', 'state': '_T ___T __A__A___ __O_ _O__', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '5469443', 'state': '_T ___T _RA__A___ __O_ _O__', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '5469443', 'state': '_T ___T _RAD_A___ __O_ DO__', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '5469443', 'state': '_T ___T _RAD_A___ __O_ DO_N', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '5469443', 'state': '_T __ST _RAD_A___ S_O_ DO_N', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '5469443', 'state': 'IT __ST _RAD_A___ S_O_ DO_N', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  W
+{'token': '5469443', 'state': 'IT __ST _RAD_A___ S_OW DOWN', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  U
+{'token': '5469443', 'state': 'IT _UST _RADUA___ S_OW DOWN', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  J
+{'token': '5469443', 'state': 'IT _UST _RADUA___ S_OW DOWN', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  M
+{'token': '5469443', 'state': 'IT MUST _RADUA___ S_OW DOWN', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '5469443', 'state': 'IT MUST GRADUALLY SLOW DOWN', 'remaining_guesses': 0, 'status': 'DEAD'}
+
+
+Fail:  IT MUST GRADUALLY SLOW DOWN
+
+
+
+
+Round  72
+{'token': '6849267', 'state': '___ ___ _ ____ ____ ___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '6849267', 'state': '___ ___ _ ___E ___E ___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '6849267', 'state': '___ _A_ _ _A_E ___E ___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '6849267', 'state': '_O_ _A_ _ _A_E _O_E ___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '6849267', 'state': '_O_ _A_ _ _A_E _O_E ___', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '6849267', 'state': '_O_ _A_ _ _A_E _O_E ___', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '6849267', 'state': 'HO_ _A_ _ HA_E _O_E H__', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '6849267', 'state': 'HO_ _A_ I HA_E _O_E HI_', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  M
+{'token': '6849267', 'state': 'HO_ _A_ I HA_E _O_E HIM', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '6849267', 'state': 'HO_ _AN I HA_E _ONE HIM', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  V
+{'token': '6849267', 'state': 'HO_ _AN I HAVE _ONE HIM', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '6849267', 'state': 'HO_ CAN I HAVE _ONE HIM', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  W
+{'token': '6849267', 'state': 'HOW CAN I HAVE _ONE HIM', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  Z
+{'token': '6849267', 'state': 'HOW CAN I HAVE DONE HIM', 'remaining_guesses': 0, 'status': 'DEAD'}
+
+
+Fail:  HOW CAN I HAVE DONE HIM
+
+
+
+
+Round  73
+{'token': '6918674', 'state': '____ ___ ___ __ __ ___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '6918674', 'state': '_E__ ___ _EE __ __ ___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '6918674', 'state': '_E__ ___ _EE __ A_ A__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '6918674', 'state': '_E__ _O_ _EE __ A_ A__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '6918674', 'state': '_E__ _O_ SEE __ A_ A__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '6918674', 'state': '_E__ _O_ SEE __ A_ A__', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '6918674', 'state': '_E__ _O_ SEE _T AT A__', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '6918674', 'state': '_ELL _O_ SEE _T AT ALL', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '6918674', 'state': '_ELL _O_ SEE _T AT ALL', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '6918674', 'state': '_ELL _O_ SEE IT AT ALL', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  W
+{'token': '6918674', 'state': 'WELL _O_ SEE IT AT ALL', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  U
+{'token': '6918674', 'state': 'WELL _OU SEE IT AT ALL', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  Y
+{'token': '6918674', 'state': 'WELL YOU SEE IT AT ALL', 'remaining_guesses': 1, 'status': 'FREE'}
+
+
+Success:  WELL YOU SEE IT AT ALL
+
+
+
+
+Round  74
+{'token': '2196876', 'state': '_______ ___ ____ _ _____ ___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '2196876', 'state': '___A___ ___ ____ _ _____ _A_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '2196876', 'state': '_E_A__E ___ ____ _ _E_E_ _A_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '2196876', 'state': '_E_A_SE ___ ____ _ _E_E_ _AS', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  W
+{'token': '2196876', 'state': '_E_A_SE ___ ___W _ _E_E_ WAS', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '2196876', 'state': '_E_A_SE _O_ __OW _ _E_E_ WAS', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '2196876', 'state': '_E_A_SE _O_ __OW _ _E_E_ WAS', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '2196876', 'state': '_E_A_SE _O_ __OW _ _E_ER WAS', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '2196876', 'state': '_E_A_SE _O_ __OW _ _E_ER WAS', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '2196876', 'state': '_E_A_SE _O_ __OW I _E_ER WAS', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '2196876', 'state': '_ECA_SE _O_ __OW I _E_ER WAS', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  U
+{'token': '2196876', 'state': '_ECAUSE _OU __OW I _E_ER WAS', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  B
+{'token': '2196876', 'state': 'BECAUSE _OU __OW I _E_ER WAS', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '2196876', 'state': 'BECAUSE _OU _NOW I NE_ER WAS', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  V
+{'token': '2196876', 'state': 'BECAUSE _OU _NOW I NEVER WAS', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  Y
+{'token': '2196876', 'state': 'BECAUSE YOU _NOW I NEVER WAS', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  K
+{'token': '2196876', 'state': 'BECAUSE YOU KNOW I NEVER WAS', 'remaining_guesses': 1, 'status': 'FREE'}
+
+
+Success:  BECAUSE YOU KNOW I NEVER WAS
+
+
+
+
+Round  75
+{'token': '1613873', 'state': '_ ______ ____ ____ __', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '1613873', 'state': '_ __TT__ ____ T___ __', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '1613873', 'state': '_ __TT__ ____ TO__ __', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '1613873', 'state': '_ __TT_E ____ TO__ _E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '1613873', 'state': 'A __TT_E ____ TO__ _E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '1613873', 'state': 'A __TT_E ____ TO__ _E', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '1613873', 'state': 'A _ITT_E _I__ TO__ _E', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '1613873', 'state': 'A LITTLE _I__ TOL_ _E', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  B
+{'token': '1613873', 'state': 'A LITTLE BI__ TOL_ _E', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '1613873', 'state': 'A LITTLE BI_D TOLD _E', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  W
+{'token': '1613873', 'state': 'A LITTLE BI_D TOLD _E', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  M
+{'token': '1613873', 'state': 'A LITTLE BI_D TOLD ME', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '1613873', 'state': 'A LITTLE BIRD TOLD ME', 'remaining_guesses': 1, 'status': 'FREE'}
+
+
+Success:  A LITTLE BIRD TOLD ME
+
+
+
+
+Round  76
+{'token': '5131216', 'state': '______ ____ __ ___ __ ___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '5131216', 'state': '______ ____ __ O__ _O ___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '5131216', 'state': '______ ____ I_ O__ _O ___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '5131216', 'state': '_E__E_ ___E I_ O__ _O ___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '5131216', 'state': '_ETTE_ ___E IT O_T _O ___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '5131216', 'state': '_ETTE_ _A_E IT O_T _O _A_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '5131216', 'state': '_ETTE_ _A_E IT O_T _O _A_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '5131216', 'state': '_ETTE_ _A_E IT O_T _O _A_', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '5131216', 'state': '_ETTER _A_E IT O_T _O _A_', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  M
+{'token': '5131216', 'state': '_ETTER MA_E IT O_T _O _A_', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '5131216', 'state': '_ETTER MA_E IT O_T NO _A_', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  U
+{'token': '5131216', 'state': '_ETTER MA_E IT OUT NO _A_', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '5131216', 'state': 'BETTER MAKE IT OUT NO WAY', 'remaining_guesses': 0, 'status': 'DEAD'}
+
+
+Fail:  BETTER MAKE IT OUT NO WAY
+
+
+
+
+Round  77
+{'token': '8545993', 'state': '___ ________ __ ___ ___ ___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '8545993', 'state': '__E _____E__ __ _E_ ___ __E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '8545993', 'state': 'T_E _____E_T __ _E_ ___ __E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '8545993', 'state': 'T_E _____E_T __ _E_ ___ A_E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '8545993', 'state': 'T_E __O__E_T O_ _E_ O__ A_E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '8545993', 'state': 'THE __O__E_T O_ HE_ O__ A_E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '8545993', 'state': 'THE _RO__E_T O_ HER O__ A_E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  F
+{'token': '8545993', 'state': 'THE _RO__E_T OF HER O__ A_E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  G
+{'token': '8545993', 'state': 'THE _RO__E_T OF HER O__ AGE', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '8545993', 'state': 'THE _RO__E_T OF HER O__ AGE', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '8545993', 'state': 'THE _RO__E_T OF HER O__ AGE', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '8545993', 'state': 'THE _RO__E_T OF HER O_N AGE', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  W
+{'token': '8545993', 'state': 'THE _RO__E_T OF HER OWN AGE', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '8545993', 'state': 'THE _ROS_E_T OF HER OWN AGE', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '8545993', 'state': 'THE _ROS_ECT OF HER OWN AGE', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  P
+{'token': '8545993', 'state': 'THE PROSPECT OF HER OWN AGE', 'remaining_guesses': 1, 'status': 'FREE'}
+
+
+Success:  THE PROSPECT OF HER OWN AGE
+
+
+
+
+Round  78
+{'token': '8834344', 'state': '____ ___ __ ___ ______', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '8834344', 'state': '____ __E __ __E ______', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '8834344', 'state': 'T___ __E __ T_E ______', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '8834344', 'state': 'T___ __E __ T_E ______', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '8834344', 'state': 'T___ O_E O_ T_E ______', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '8834344', 'state': 'TH__ O_E O_ THE ______', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '8834344', 'state': 'TH__ O_E O_ THE __A___', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  F
+{'token': '8834344', 'state': 'TH__ O_E OF THE __A___', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '8834344', 'state': 'TH__ ONE OF THE __A___', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '8834344', 'state': 'TH_S ONE OF THE __A__S', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  U
+{'token': '8834344', 'state': 'THUS ONE OF THE _UA__S', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '8834344', 'state': 'THUS ONE OF THE _UAR_S', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '8834344', 'state': 'THUS ONE OF THE _UARDS', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  G
+{'token': '8834344', 'state': 'THUS ONE OF THE GUARDS', 'remaining_guesses': 2, 'status': 'FREE'}
+
+
+Success:  THUS ONE OF THE GUARDS
+
+
+
+
+Round  79
+{'token': '3093248', 'state': '_ _____ ___ ____ ___ _____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '3093248', 'state': 'I _____ ___ ____ ___ _____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '3093248', 'state': 'I _____ ___ ____ __E _____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '3093248', 'state': 'I _____ __T ____ T_E ___T_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '3093248', 'state': 'I _____ _OT _O__ T_E ___T_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '3093248', 'state': 'I __A__ _OT _O__ T_E _A_T_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '3093248', 'state': 'I _HA__ _OT _O__ THE _A_T_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '3093248', 'state': 'I _HA__ _OT _O_N THE _A_T_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '3093248', 'state': 'I _HA__ _OT _O_N THE _A_T_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '3093248', 'state': 'I SHA__ _OT _O_N THE _A_TS', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '3093248', 'state': 'I SHA__ _OT DO_N THE _A_TS', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  W
+{'token': '3093248', 'state': 'I SHA__ _OT DOWN THE _A_TS', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  G
+{'token': '3093248', 'state': 'I SHA__ _OT DOWN THE _A_TS', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '3093248', 'state': 'I SHALL _OT DOWN THE _A_TS', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '3093248', 'state': 'I SHALL _OT DOWN THE _ACTS', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  F
+{'token': '3093248', 'state': 'I SHALL _OT DOWN THE FACTS', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  P
+{'token': '3093248', 'state': 'I SHALL JOT DOWN THE FACTS', 'remaining_guesses': 0, 'status': 'DEAD'}
+
+
+Fail:  I SHALL JOT DOWN THE FACTS
+
+
+
+
+Round  80
+{'token': '6271839', 'state': '_____ __ __ __ ___________', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '6271839', 'state': '_____ __ __ __ ___________', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '6271839', 'state': '_____ __ __ I_ I__I____I__', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '6271839', 'state': '___A_ A_ __ I_ I__I__A_I__', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '6271839', 'state': '___A_ A_ __ I_ IN_IN_A_IN_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '6271839', 'state': '__EA_ A_ _E I_ IN_IN_A_IN_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '6271839', 'state': '__EAT A_ _E I_ IN_IN_ATIN_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '6271839', 'state': '__EAT AS _E IS INSIN_ATIN_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '6271839', 'state': '__EAT AS HE IS INSIN_ATIN_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '6271839', 'state': '_REAT AS HE IS INSIN_ATIN_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  G
+{'token': '6271839', 'state': 'GREAT AS HE IS INSIN_ATING', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  K
+{'token': '6271839', 'state': 'GREAT AS HE IS INSIN_ATING', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '6271839', 'state': 'GREAT AS HE IS INSINUATING', 'remaining_guesses': 0, 'status': 'DEAD'}
+
+
+Fail:  GREAT AS HE IS INSINUATING
+
+
+
+
+Round  81
+{'token': '4854880', 'state': '__ ____ ____ __________ _________', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '4854880', 'state': '__ T___ T___ T_________ ___T_____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '4854880', 'state': '__ T_I_ TI__ T_________ _I_T_____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '4854880', 'state': '__ T_I_ TI_E T_________ _I_T___E_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '4854880', 'state': '__ T_I_ TI_E T_________ _I_T___E_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '4854880', 'state': '__ T_I_ TI_E T_O_O_____ _I_T___E_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '4854880', 'state': '__ T_IS TI_E T_O_O_____ _IST___E_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '4854880', 'state': '__ THIS TI_E THO_O__H__ _IST___E_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '4854880', 'state': '__ THIS TI_E THORO__H__ _IST_R_E_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  Y
+{'token': '4854880', 'state': '_Y THIS TI_E THORO__H_Y _IST_R_E_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  B
+{'token': '4854880', 'state': 'BY THIS TI_E THORO__H_Y _IST_RBE_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  M
+{'token': '4854880', 'state': 'BY THIS TIME THORO__H_Y _IST_RBE_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '4854880', 'state': 'BY THIS TIME THORO__HLY _IST_RBE_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  U
+{'token': '4854880', 'state': 'BY THIS TIME THOROU_HLY _ISTURBE_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  G
+{'token': '4854880', 'state': 'BY THIS TIME THOROUGHLY _ISTURBE_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '4854880', 'state': 'BY THIS TIME THOROUGHLY DISTURBED', 'remaining_guesses': 2, 'status': 'FREE'}
+
+
+Success:  BY THIS TIME THOROUGHLY DISTURBED
+
+
+
+
+Round  82
+{'token': '3357370', 'state': '___ ___ ___ _____ __ ______', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '3357370', 'state': '__E ___ ___ ____E __ ______', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '3357370', 'state': '__E ___ __T ___TE __ ___TT_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '3357370', 'state': '__E _A_ __T ___TE __ __ATT_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '3357370', 'state': '__E _A_ _OT ___TE _O __ATT_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '3357370', 'state': 'S_E _AS _OT ___TE SO __ATT_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '3357370', 'state': 'S_E _AS _OT __ITE SO __ATT_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '3357370', 'state': 'SHE _AS _OT __ITE SO _HATT_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  W
+{'token': '3357370', 'state': 'SHE WAS _OT __ITE SO _HATT_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '3357370', 'state': 'SHE WAS NOT __ITE SO _HATT_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  U
+{'token': '3357370', 'state': 'SHE WAS NOT _UITE SO _HATT_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  Q
+{'token': '3357370', 'state': 'SHE WAS NOT QUITE SO _HATT_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '3357370', 'state': 'SHE WAS NOT QUITE SO CHATT_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  V
+{'token': '3357370', 'state': 'SHE WAS NOT QUITE SO CHATT_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  K
+{'token': '3357370', 'state': 'SHE WAS NOT QUITE SO CHATT_', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '3357370', 'state': 'SHE WAS NOT QUITE SO CHATTY', 'remaining_guesses': 0, 'status': 'DEAD'}
+
+
+Fail:  SHE WAS NOT QUITE SO CHATTY
+
+
+
+
+Round  83
+{'token': '8122157', 'state': '__ ___ ____ __ ___ _____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '8122157', 'state': 'O_ O__ ____ O_ ___ _____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  F
+{'token': '8122157', 'state': 'O_ O__ ____ OF ___ F____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '8122157', 'state': 'O_ O_E ___E OF __E F___E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '8122157', 'state': 'ON ONE ___E OF __E F___E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '8122157', 'state': 'ON ONE ___E OF __E F_A_E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '8122157', 'state': 'ON ONE ___E OF T_E F_A_E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '8122157', 'state': 'ON ONE ___E OF THE F_A_E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  K
+{'token': '8122157', 'state': 'ON ONE ___E OF THE F_A_E', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '8122157', 'state': 'ON ONE _I_E OF THE F_A_E', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '8122157', 'state': 'ON ONE SI_E OF THE F_A_E', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '8122157', 'state': 'ON ONE SIDE OF THE F_A_E', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '8122157', 'state': 'ON ONE SIDE OF THE FRA_E', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  M
+{'token': '8122157', 'state': 'ON ONE SIDE OF THE FRAME', 'remaining_guesses': 2, 'status': 'FREE'}
+
+
+Success:  ON ONE SIDE OF THE FRAME
+
+
+
+
+Round  84
+{'token': '2236021', 'state': "________ ___'_ ___ ___ _ ____", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '2236021', 'state': "________ ___'T ___ ___ _ ____", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '2236021', 'state': "________ ___'T ___ _A_ A ____", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '2236021', 'state': "________ _O_'T _O_ _A_ A _O__", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '2236021', 'state': "______E_ _O_'T _O_ _A_ A _O__", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '2236021', 'state': "______E_ _O_'T _O_ SA_ A _O__", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '2236021', 'state': "_____RE_ _O_'T _O_ SA_ A _OR_", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  K
+{'token': '2236021', 'state': "_____RE_ _O_'T _O_ SA_ A _OR_", 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '2236021', 'state': "__I__RE_ _O_'T _O_ SA_ A _OR_", 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '2236021', 'state': "__I__REN _ON'T _O_ SA_ A _OR_", 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '2236021', 'state': "_HI__REN _ON'T _O_ SA_ A _OR_", 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '2236021', 'state': "_HI_DREN DON'T _O_ SA_ A _ORD", 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '2236021', 'state': "_HILDREN DON'T _O_ SA_ A _ORD", 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  W
+{'token': '2236021', 'state': "_HILDREN DON'T _O_ SA_ A WORD", 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '2236021', 'state': "CHILDREN DON'T _O_ SA_ A WORD", 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  U
+{'token': '2236021', 'state': "CHILDREN DON'T _OU SA_ A WORD", 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  Y
+{'token': '2236021', 'state': "CHILDREN DON'T YOU SAY A WORD", 'remaining_guesses': 2, 'status': 'FREE'}
+
+
+Success:  CHILDREN DON'T YOU SAY A WORD
+
+
+
+
+Round  85
+{'token': '9597469', 'state': '__ ___ ___ _____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '9597469', 'state': '__ __E ___ _____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '9597469', 'state': '__ T_E ___ ___T_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '9597469', 'state': '__ T_E O__ _O_T_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '9597469', 'state': '__ THE O__ _O_TH', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '9597469', 'state': 'I_ THE O__ _O_TH', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '9597469', 'state': 'IN THE O__ _O_TH', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '9597469', 'state': 'IN THE O__ SO_TH', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  U
+{'token': '9597469', 'state': 'IN THE O__ SOUTH', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '9597469', 'state': 'IN THE O_D SOUTH', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '9597469', 'state': 'IN THE OLD SOUTH', 'remaining_guesses': 3, 'status': 'FREE'}
+
+
+Success:  IN THE OLD SOUTH
+
+
+
+
+Round  86
+{'token': '2434290', 'state': '__ ____ _____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '2434290', 'state': '_O ____ _____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '2434290', 'state': '_O ____ _____', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '2434290', 'state': '_O ____ ____E', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '2434290', 'state': '_O _A__ A___E', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '2434290', 'state': 'NO _A__ A___E', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  K
+{'token': '2434290', 'state': 'NO _A__ A___E', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '2434290', 'state': 'NO SAID ALICE', 'remaining_guesses': 0, 'status': 'DEAD'}
+
+
+Fail:  NO SAID ALICE
+
+
+
+
+Round  87
+{'token': '1246175', 'state': '___ ______ __ _____ ___ _________', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '1246175', 'state': '___ ______ __ _____ ___ _________', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '1246175', 'state': '__E E_E___ __ _____ ___ ___E___E_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '1246175', 'state': 'T_E E_E___ __ _T___ ___ ___E___E_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '1246175', 'state': 'T_E E_E___ O_ _TO__ ___ _O_E___E_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '1246175', 'state': 'T_E E_E___ O_ _TO_S ___ _O_E___ES', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '1246175', 'state': 'T_E E_E___ O_ ATO_S A__ _O_E___ES', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '1246175', 'state': 'T_E ENE___ O_ ATO_S AN_ _O_E___ES', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '1246175', 'state': 'THE ENE___ O_ ATO_S AN_ _O_E___ES', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  F
+{'token': '1246175', 'state': 'THE ENE___ OF ATO_S AN_ _O_E___ES', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '1246175', 'state': 'THE ENE___ OF ATO_S AND _O_E___ES', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '1246175', 'state': 'THE ENER__ OF ATO_S AND _O_E___ES', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  G
+{'token': '1246175', 'state': 'THE ENERG_ OF ATO_S AND _O_E___ES', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  Y
+{'token': '1246175', 'state': 'THE ENERGY OF ATO_S AND _O_E___ES', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '1246175', 'state': 'THE ENERGY OF ATO_S AND _OLE__LES', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '1246175', 'state': 'THE ENERGY OF ATO_S AND _OLEC_LES', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  U
+{'token': '1246175', 'state': 'THE ENERGY OF ATO_S AND _OLECULES', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  M
+{'token': '1246175', 'state': 'THE ENERGY OF ATOMS AND MOLECULES', 'remaining_guesses': 2, 'status': 'FREE'}
+
+
+Success:  THE ENERGY OF ATOMS AND MOLECULES
+
+
+
+
+Round  88
+{'token': '4838705', 'state': "_____ ____ ____ _____'_ ____", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '4838705', 'state': "_____ ____ ____ _____'_ ____", 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '4838705', 'state': "_____ ____ ____ _____'_ ____", 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '4838705', 'state': "_E_E_ ____ ____ _____'_ ____", 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '4838705', 'state': "_E_E_ ____ ____ _____'_ _A__", 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '4838705', 'state': "_E_E_ ____ __SS _____'S _A__", 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '4838705', 'state': "_E_E_ _I__ _ISS _I___'S _AI_", 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '4838705', 'state': "_E_E_ _I__ _ISS _I___'S HAI_", 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '4838705', 'state': "_E_E_ _I__ _ISS LI___'S HAI_", 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  K
+{'token': '4838705', 'state': "NEVER MIND MISS LIZZY'S HAIR", 'remaining_guesses': 0, 'status': 'DEAD'}
+
+
+Fail:  NEVER MIND MISS LIZZY'S HAIR
+
+
+
+
+Round  89
+{'token': '6084269', 'state': '___ ___ ____ __ ___ ___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '6084269', 'state': '_E_ __E ____ __ ___ ___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '6084269', 'state': '_E_ __E ____ __ ___ ___', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '6084269', 'state': '_E_ __E ____ __ ___ ___', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '6084269', 'state': '_E_ __E ____ _O _O_ _O_', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '6084269', 'state': 'YES SHE WILL DO FOR YOU', 'remaining_guesses': 0, 'status': 'DEAD'}
+
+
+Fail:  YES SHE WILL DO FOR YOU
+
+
+
+
+Round  90
+{'token': '6150481', 'state': '___ _____ __ _______ ______', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '6150481', 'state': '___ __I__ I_ ____I__ I_____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '6150481', 'state': '__E __IE_ I_ ____I__ I__E__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '6150481', 'state': 'T_E __IE_ I_ ____IT_ IT_E__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '6150481', 'state': 'THE __IE_ I_ _H__IT_ IT_E__', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '6150481', 'state': 'THE __IE_ I_ _H__IT_ IT_E__', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '6150481', 'state': 'THE __IE_ IS _H__IT_ ITSE__', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '6150481', 'state': 'THE __IE_ IS _H__IT_ ITSEL_', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  F
+{'token': '6150481', 'state': 'THE __IE_ IS _H__IT_ ITSELF', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '6150481', 'state': 'THE A_IE_ IS _HA_IT_ ITSELF', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '6150481', 'state': 'THE A_IE_ IS _HARIT_ ITSELF', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '6150481', 'state': 'THE A_IE_ IS CHARIT_ ITSELF', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  Y
+{'token': '6150481', 'state': 'THE A_IE_ IS CHARITY ITSELF', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '6150481', 'state': 'THE ADIE_ IS CHARITY ITSELF', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  U
+{'token': '6150481', 'state': 'THE ADIEU IS CHARITY ITSELF', 'remaining_guesses': 2, 'status': 'FREE'}
+
+
+Success:  THE ADIEU IS CHARITY ITSELF
+
+
+
+
+Round  91
+{'token': '5528224', 'state': '__ ___ _____ __ __', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '5528224', 'state': '__ ___ _____ O_ __', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '5528224', 'state': 'I_ ___ __I__ O_ __', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '5528224', 'state': 'I_ __E _EI__ O_ __', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '5528224', 'state': 'IN __E _EI_N O_ __', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '5528224', 'state': 'IN T_E _EI_N O_ _T', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '5528224', 'state': 'IN THE _EI_N O_ _T', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  F
+{'token': '5528224', 'state': 'IN THE _EI_N OF _T', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '5528224', 'state': 'IN THE _EI_N OF _T', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '5528224', 'state': 'IN THE _EI_N OF ST', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '5528224', 'state': 'IN THE REI_N OF ST', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  G
+{'token': '5528224', 'state': 'IN THE REIGN OF ST', 'remaining_guesses': 2, 'status': 'FREE'}
+
+
+Success:  IN THE REIGN OF ST
+
+
+
+
+Round  92
+{'token': '7475324', 'state': '_ _____ ____ _____ __ _____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '7475324', 'state': 'I _____ ____ _____ __ _____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '7475324', 'state': 'I _____ _E__ _____ __ _____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '7475324', 'state': 'I _____ _E__ _____ __ _____', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '7475324', 'state': 'I _____ _E__ _O___ __ _____', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '7475324', 'state': 'I __A__ _E__ _O___ __ _A___', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  Y
+{'token': '7475324', 'state': 'I __A__ _E__ _O___ _Y _A___', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  B
+{'token': '7475324', 'state': 'I __A__ _E__ _O___ _Y _A___', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '7475324', 'state': 'I __A__ _E_D _O__D _Y _A_D_', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '7475324', 'state': 'I __ALL _E_D _O__D _Y _A_D_', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '7475324', 'state': 'I __ALL _END _O_ND _Y _A_D_', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '7475324', 'state': 'I S_ALL SEND _O_ND _Y _A_DS', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  M
+{'token': '7475324', 'state': 'I S_ALL SEND _O_ND MY _A_DS', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  U
+{'token': '7475324', 'state': 'I S_ALL SEND _OUND MY _A_DS', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  F
+{'token': '7475324', 'state': 'I SHALL SEND ROUND MY CARDS', 'remaining_guesses': 0, 'status': 'DEAD'}
+
+
+Fail:  I SHALL SEND ROUND MY CARDS
+
+
+
+
+Round  93
+{'token': '5593015', 'state': '_____ ____ ___ ________', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '5593015', 'state': '_____ ____ T__ ________', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '5593015', 'state': '_E_E_ ____ T_E _______E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '5593015', 'state': '_E_E_ ____ T_E _O__O__E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '5593015', 'state': '_E_E_ ____ THE _O__O__E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '5593015', 'state': '_E_E_ _A__ THE _O__O__E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '5593015', 'state': 'NE_E_ _A__ THE _O__O__E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  K
+{'token': '5593015', 'state': 'NE_E_ _A__ THE _O__O__E', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '5593015', 'state': 'NE_E_ _AI_ THE _O__O__E', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '5593015', 'state': 'NE_E_ SAI_ THE _O__O_SE', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '5593015', 'state': 'NE_ER SAI_ THE _OR_O_SE', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '5593015', 'state': 'NE_ER SAID THE DOR_O_SE', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  V
+{'token': '5593015', 'state': 'NEVER SAID THE DOR_O_SE', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '5593015', 'state': 'NEVER SAID THE DOR_O_SE', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '5593015', 'state': 'NEVER SAID THE DORMOUSE', 'remaining_guesses': 0, 'status': 'DEAD'}
+
+
+Fail:  NEVER SAID THE DORMOUSE
+
+
+
+
+Round  94
+{'token': '4516176', 'state': '___ _______ ___ _ ________ ______', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '4516176', 'state': '__E ____E__ ___ _ ________ ______', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '4516176', 'state': 'T_E T___E__ ___ _ __TT____ ______', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '4516176', 'state': 'T_E T___EA_ _A_ A _ATT____ ______', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '4516176', 'state': 'T_E T___EA_ _A_ A _ATT_I__ ______', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '4516176', 'state': 'THE T__HEA_ _A_ A _ATT_I__ ______', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '4516176', 'state': 'THE T__HEA_ _AS A _ATT_I__ ______', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  W
+{'token': '4516176', 'state': 'THE T_WHEA_ WAS A _ATT_I__ __WW_W', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '4516176', 'state': 'THE T_WHEA_ WAS A _ATT_IN_ __WW_W', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '4516176', 'state': 'THE T_WHEA_ WAS A _ATTLIN_ __WW_W', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  G
+{'token': '4516176', 'state': 'THE T_WHEA_ WAS A _ATTLING __WW_W', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  B
+{'token': '4516176', 'state': 'THE T_WHEA_ WAS A _ATTLING __WW_W', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '4516176', 'state': 'THE T_WHEA_ WAS A RATTLING __WW_W', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  K
+{'token': '4516176', 'state': 'THE T_WHEA_ WAS A RATTLING __WW_W', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '4516176', 'state': 'THE TOWHEA_ WAS A RATTLING _OWWOW', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '4516176', 'state': 'THE TOWHEAD WAS A RATTLING _OWWOW', 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  P
+{'token': '4516176', 'state': 'THE TOWHEAD WAS A RATTLING POWWOW', 'remaining_guesses': 1, 'status': 'FREE'}
+
+
+Success:  THE TOWHEAD WAS A RATTLING POWWOW
+
+
+
+
+Round  95
+{'token': '3155149', 'state': '__ ___ _______ ___________', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '3155149', 'state': '__ __E _E__E__ _________E_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '3155149', 'state': '__ T_E _E_TE__ _______T_E_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '3155149', 'state': '__ T_E _E_TE__ _O_____T_E_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '3155149', 'state': 'I_ T_E _E_TE__ _O____ITIE_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '3155149', 'state': 'IN T_E _E_TE_N _O___NITIE_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '3155149', 'state': 'IN T_E _ESTE_N _O___NITIES', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '3155149', 'state': 'IN THE _ESTE_N _O___NITIES', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '3155149', 'state': 'IN THE _ESTERN _O___NITIES', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  W
+{'token': '3155149', 'state': 'IN THE WESTERN _O___NITIES', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '3155149', 'state': 'IN THE WESTERN CO___NITIES', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  U
+{'token': '3155149', 'state': 'IN THE WESTERN CO__UNITIES', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  M
+{'token': '3155149', 'state': 'IN THE WESTERN COMMUNITIES', 'remaining_guesses': 3, 'status': 'FREE'}
+
+
+Success:  IN THE WESTERN COMMUNITIES
+
+
+
+
+Round  96
+{'token': '2554395', 'state': "__ ___ _____ _____ _'_____", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '2554395', 'state': "__ ___ ___E_ E____ _'_____", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '2554395', 'state': "__ _A_ A__E_ E____ _'_____", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '2554395', 'state': "_T _A_ A_TE_ E___T _'_____", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '2554395', 'state': "IT _A_ A_TE_ EI__T _'_____", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '2554395', 'state': "IT _AS A_TE_ EI__T _'_____", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  W
+{'token': '2554395', 'state': "IT WAS A_TE_ EI__T _'_____", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '2554395', 'state': "IT WAS A_TER EI__T _'_____", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  F
+{'token': '2554395', 'state': "IT WAS AFTER EI__T _'_____", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '2554395', 'state': "IT WAS AFTER EI_HT _'_____", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  G
+{'token': '2554395', 'state': "IT WAS AFTER EIGHT _'_____", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  K
+{'token': '2554395', 'state': "IT WAS AFTER EIGHT _'____K", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '2554395', 'state': "IT WAS AFTER EIGHT O'__O_K", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '2554395', 'state': "IT WAS AFTER EIGHT O'__O_K", 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '2554395', 'state': "IT WAS AFTER EIGHT O'__O_K", 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '2554395', 'state': "IT WAS AFTER EIGHT O'_LO_K", 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '2554395', 'state': "IT WAS AFTER EIGHT O'CLOCK", 'remaining_guesses': 1, 'status': 'FREE'}
+
+
+Success:  IT WAS AFTER EIGHT O'CLOCK
+
+
+
+
+Round  97
+{'token': '4729090', 'state': '___ ______ __ ___ ___ ___', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '4729090', 'state': '__E ______ __ __E _E_ __E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '4729090', 'state': 'T_E _____T __ T_E _E_ __E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '4729090', 'state': 'THE _____T __ THE _E_ __E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '4729090', 'state': 'THE _____T __ THE _E_ A_E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '4729090', 'state': 'THE _____T O_ THE _E_ A_E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  F
+{'token': '4729090', 'state': 'THE _____T OF THE _E_ A_E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '4729090', 'state': 'THE ___R_T OF THE _E_ A_E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '4729090', 'state': 'THE ___R_T OF THE NE_ A_E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  W
+{'token': '4729090', 'state': 'THE ___R_T OF THE NEW A_E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  G
+{'token': '4729090', 'state': 'THE ___R_T OF THE NEW AGE', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '4729090', 'state': 'THE __IRIT OF THE NEW AGE', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '4729090', 'state': 'THE S_IRIT OF THE NEW AGE', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  P
+{'token': '4729090', 'state': 'THE SPIRIT OF THE NEW AGE', 'remaining_guesses': 3, 'status': 'FREE'}
+
+
+Success:  THE SPIRIT OF THE NEW AGE
+
+
+
+
+Round  98
+{'token': '5079490', 'state': '____ ___ ___ ___ ____ ____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '5079490', 'state': 'T___ ___ __T T__ ____ ____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '5079490', 'state': 'T___ ___ _OT T__ ____ ____', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '5079490', 'state': 'T___ ___ _OT T_E ___E _E_E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '5079490', 'state': 'T___ _A_ _OT T_E _A_E _E_E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '5079490', 'state': 'TH__ _A_ _OT THE _A_E HE_E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '5079490', 'state': 'TH_S _AS _OT THE _ASE HE_E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  W
+{'token': '5079490', 'state': 'TH_S WAS _OT THE _ASE HE_E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '5079490', 'state': 'THIS WAS _OT THE _ASE HE_E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '5079490', 'state': 'THIS WAS NOT THE _ASE HE_E', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  B
+{'token': '5079490', 'state': 'THIS WAS NOT THE _ASE HE_E', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '5079490', 'state': 'THIS WAS NOT THE CASE HE_E', 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  R
+{'token': '5079490', 'state': 'THIS WAS NOT THE CASE HERE', 'remaining_guesses': 2, 'status': 'FREE'}
+
+
+Success:  THIS WAS NOT THE CASE HERE
+
+
+
+
+Round  99
+{'token': '8478332', 'state': "__ ___ ____'_ _______ ___", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '8478332', 'state': "__ __E ____'_ _______ ___", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '8478332', 'state': "_T T_E ____'_ _______ ___", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '8478332', 'state': "AT T_E ____'_ _______ ___", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '8478332', 'state': "AT T_E ____'_ _O_____ ___", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '8478332', 'state': "AT T_E _I__'_ _O___I_ _I_", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '8478332', 'state': "AT THE _I__'_ _O___I_ _I_", 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  D
+{'token': '8478332', 'state': "AT THE _I__'_ _O___I_ _I_", 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '8478332', 'state': "AT THE _IN_'_ _O_N_I_ _I_", 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  L
+{'token': '8478332', 'state': "AT THE _IN_'_ _O_N_IL _I_", 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  C
+{'token': '8478332', 'state': "AT THE _IN_'_ CO_NCIL _I_", 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  U
+{'token': '8478332', 'state': "AT THE _IN_'_ COUNCIL _I_", 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '8478332', 'state': "AT THE _IN_'S COUNCIL _I_", 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  G
+{'token': '8478332', 'state': "AT THE _ING'S COUNCIL _IG", 'remaining_guesses': 2, 'status': 'ALIVE'}
+
+
+Letter Guessed:  B
+{'token': '8478332', 'state': "AT THE _ING'S COUNCIL _IG", 'remaining_guesses': 1, 'status': 'ALIVE'}
+
+
+Letter Guessed:  P
+{'token': '8478332', 'state': "AT THE KING'S COUNCIL FIG", 'remaining_guesses': 0, 'status': 'DEAD'}
+
+
+Fail:  AT THE KING'S COUNCIL FIG
+
+
+
+
+Round  100
+{'token': '5303327', 'state': '__ ___ _____ __ __________', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  O
+{'token': '5303327', 'state': 'O_ ___ _____ O_ ________O_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  F
+{'token': '5303327', 'state': 'O_ ___ _____ OF ________O_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  E
+{'token': '5303327', 'state': 'O_ __E ____E OF ___E____O_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  T
+{'token': '5303327', 'state': 'O_ T_E ____E OF ___E__T_O_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  H
+{'token': '5303327', 'state': 'O_ THE ____E OF ___E__T_O_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  A
+{'token': '5303327', 'state': 'O_ THE ____E OF A__E_AT_O_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  I
+{'token': '5303327', 'state': 'O_ THE I___E OF A__E_ATIO_', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  N
+{'token': '5303327', 'state': 'ON THE I___E OF ANNE_ATION', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  S
+{'token': '5303327', 'state': 'ON THE ISS_E OF ANNE_ATION', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  U
+{'token': '5303327', 'state': 'ON THE ISSUE OF ANNE_ATION', 'remaining_guesses': 3, 'status': 'ALIVE'}
+
+
+Letter Guessed:  X
+{'token': '5303327', 'state': 'ON THE ISSUE OF ANNEXATION', 'remaining_guesses': 3, 'status': 'FREE'}
+
+
+Success:  ON THE ISSUE OF ANNEXATION
+
+
+
+
+Total Success =  75
+Total Failures =  25
+Total Attempts =  100
+
+
+Deactivating environment
+Cleaning up environment
